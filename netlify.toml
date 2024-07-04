@@ -1,0 +1,7 @@
+[build]
+  publish = "public"
+  command = "hugo --config hugo.toml"
+
+[context.production.environment]
+  HUGO_VERSION = "0.128.0"  # Replace with your desired Hugo version
+
