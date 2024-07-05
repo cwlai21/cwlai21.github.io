@@ -1,7 +1,7 @@
 ---
 title: "Covid à Taïwan"
 date: 2023-03-11T09:30:32+07:00
-slug: /French/
+slug: /Covid-a-Taiwan/
 description: Expliquer la Situation pendant la Pandémie à Taïwan.
 image: images/daniel-schludi-mAGZNECMcUg-unsplash.jpg
 caption: Photo by Daniel Schludi Unsplash.
@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-Keyword: subvention changement de la vie téletravail
+Keyword: subvention changement de la vie 
 
 La pandémie Covid s’est déroulée à partir de 2019 et cependant la phase aiguë commençait un an plus tard à Taiwan. En fermant les frontières aériens et maritimes avec de contrôles sanitaires rigoureux, la plupart de cas confirmés étaient décelés mettant en quarantaine. C’est un avantage d’île. Certaines personnes ont commencé à s’y vanter et le ministre du gouvernement aussi. Quoi qu’il en soit on n’était pas prêt pour la pandémie même qu’il y avait eue des vaccines partout qui jouaient un rôle primordial en lutte contre la mortalité et la gravité de l’épidémie.
 

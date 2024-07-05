@@ -1,7 +1,7 @@
 ---
 title: "Les Systèmes de Retraite à Taïwan"
 date: 2023-04-07T09:30:32+07:00
-slug: /French/
+slug: /Systemes-de-Retraite-a-Taiwan/
 description: Explore how telescopes enable us to journey back in time by observing distant celestial objects.
 image: images/kenny-eliason-JW6r_0CPYec-unsplash.jpg
 caption: Photo by Kenny Eliason Unsplash.

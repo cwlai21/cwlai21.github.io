@@ -1,4 +1,4 @@
-baseURL = 'https://laichangwen.github.io/hugo_blog/'
+baseURL = 'https://laichangwen.github.io/'
 languageCode = 'en-us'
 title = 'Bon Courage'
 theme = 'pehtheme-hugo'
@@ -44,3 +44,7 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
   [module.mounts] # Directing the static folder to assets.
   	source = 'assets'
   	target = 'static'
+
+[permalinks]
+post = "/:slug/"
+page = "/:slug/"

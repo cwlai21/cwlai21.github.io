@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automation on Bon Courage</title>
-    <link>https://laichangwen.github.io/hugo_blog/categories/automation/</link>
+    <link>https://laichangwen.github.io/categories/automation/</link>
     <description>Recent content in Automation on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jul 2023 22:11:36 +0700</lastBuildDate>
-    <atom:link href="https://laichangwen.github.io/hugo_blog/categories/automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jul 2024 22:11:36 +0700</lastBuildDate>
+    <atom:link href="https://laichangwen.github.io/categories/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tera Term Learning Note</title>
-      <link>https://laichangwen.github.io/hugo_blog/posts/2023/automation-tools/</link>
-      <pubDate>Sun, 02 Jul 2023 22:11:36 +0700</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/posts/2023/automation-tools/</guid>
-      <description>In the vast expanse of the cosmos, there are few objects as mysterious and awe-inspiring as black holes. These enigmatic cosmic phenomena, once thought of as nothing more than theoretical curiosities, have now become a central focus of astronomical research.</description>
+      <link>https://laichangwen.github.io/posts/2024/tera-term-note/</link>
+      <pubDate>Fri, 05 Jul 2024 22:11:36 +0700</pubDate>
+      <guid>https://laichangwen.github.io/posts/2024/tera-term-note/</guid>
+      <description>Tera Term and PuTTY are both popular terminal emulation program used for remote access to computers or network devices. Both could support various protocols (Telnet, SSH and serial connections).</description>
     </item>
   </channel>
 </rss>

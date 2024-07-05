@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EBooks on Bon Courage</title>
-    <link>https://laichangwen.github.io/hugo_blog/tags/ebooks/</link>
+    <link>https://laichangwen.github.io/tags/ebooks/</link>
     <description>Recent content in EBooks on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Sep 2023 14:15:05 +0700</lastBuildDate>
-    <atom:link href="https://laichangwen.github.io/hugo_blog/tags/ebooks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://laichangwen.github.io/tags/ebooks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kindle 使用心得</title>
-      <link>https://laichangwen.github.io/hugo_blog/posts/2022/reading/</link>
+      <link>https://laichangwen.github.io/posts/2023/kindle-usage/</link>
       <pubDate>Fri, 01 Sep 2023 14:15:05 +0700</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/posts/2022/reading/</guid>
+      <guid>https://laichangwen.github.io/posts/2023/kindle-usage/</guid>
       <description>一向偏好紙本書籍閱讀的我，在因緣際會下，在八月入手了Kindle Oasis 閱讀器後，一腳踏進入電子書的新大門。截至目前，在kindle unlimited 第一個月免費試用和不小心續訂了第二個月的強大誘因下，體驗了英法書籍，法文BD (Bande Desinée) 以及中文漫畫的閱讀，整體的使用者體驗相當不錯。&#xA;一來，長時間使用下不會造成眼睛過度的疲勞及乾澀，二來，機器本身相當輕巧，耗電量也不高，隨身攜帶的負擔不會太過沉重，但又可以隨時沉靜在書海中。考量家中不斷減少的閒置書櫃空間和各種推陳出新的有趣新書，這個剁手行為還是相當划算。&#xA;中文電子書 Keyword: Pubu Kobo&#xA;透過PuBu以及樂天Kobo電子書城補足Amazon ebook 中文書籍稀缺的缺口&#xA;前置動作 (one-time job)&#xA;下載Adobe DRM (官網下載) - &amp;gt; 建立Adobe ID - &amp;gt; 授權電腦</description>
     </item>
   </channel>

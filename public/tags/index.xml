@@ -2,178 +2,206 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bon Courage</title>
-    <link>https://laichangwen.github.io/hugo_blog/tags/</link>
+    <link>https://laichangwen.github.io/tags/</link>
     <description>Recent content in Tags on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Oct 2023 22:11:36 +0700</lastBuildDate>
-    <atom:link href="https://laichangwen.github.io/hugo_blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2024 09:30:32 +0700</lastBuildDate>
+    <atom:link href="https://laichangwen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Black Hole</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/black-hole/</link>
+      <title>Kpi</title>
+      <link>https://laichangwen.github.io/tags/kpi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/black-hole/</guid>
+      <guid>https://laichangwen.github.io/tags/kpi/</guid>
       <description></description>
     </item>
     <item>
-      <title>Relativity</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/relativity/</link>
+      <title>Quantify</title>
+      <link>https://laichangwen.github.io/tags/quantify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/relativity/</guid>
+      <guid>https://laichangwen.github.io/tags/quantify/</guid>
       <description></description>
     </item>
     <item>
-      <title>Space</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/space/</link>
+      <title>Self-Growth</title>
+      <link>https://laichangwen.github.io/tags/self-growth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/space/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cosmic</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/cosmic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/cosmic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nebula</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/nebula/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/nebula/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Supernova</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/supernova/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/supernova/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Anki</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/anki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/anki/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>French</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/french/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/french/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Self-Learned</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/self-learned/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/self-learned/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vocabulary</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/vocabulary/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/vocabulary/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>EBooks</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/ebooks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/ebooks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>EReader</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/ereader/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/ereader/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kindle</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/kindle/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/kindle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Exploration</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/exploration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/exploration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Feature</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/feature/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/feature/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mars</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/mars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/mars/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Telescopes</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/telescopes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/telescopes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Astronomy</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/astronomy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/astronomy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Telescope</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/telescope/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/telescope/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Exoplanets</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/exoplanets/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/exoplanets/</guid>
+      <guid>https://laichangwen.github.io/tags/self-growth/</guid>
       <description></description>
     </item>
     <item>
       <title>Macro</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/macro/</link>
+      <link>https://laichangwen.github.io/tags/macro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/macro/</guid>
+      <guid>https://laichangwen.github.io/tags/macro/</guid>
       <description></description>
     </item>
     <item>
       <title>Scripts</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/scripts/</link>
+      <link>https://laichangwen.github.io/tags/scripts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/scripts/</guid>
+      <guid>https://laichangwen.github.io/tags/scripts/</guid>
       <description></description>
     </item>
     <item>
       <title>TTL</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/ttl/</link>
+      <link>https://laichangwen.github.io/tags/ttl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/ttl/</guid>
+      <guid>https://laichangwen.github.io/tags/ttl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Black Hole</title>
+      <link>https://laichangwen.github.io/tags/black-hole/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/black-hole/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Relativity</title>
+      <link>https://laichangwen.github.io/tags/relativity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/relativity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Space</title>
+      <link>https://laichangwen.github.io/tags/space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/space/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cosmic</title>
+      <link>https://laichangwen.github.io/tags/cosmic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/cosmic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nebula</title>
+      <link>https://laichangwen.github.io/tags/nebula/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/nebula/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Supernova</title>
+      <link>https://laichangwen.github.io/tags/supernova/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/supernova/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anki</title>
+      <link>https://laichangwen.github.io/tags/anki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/anki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>French</title>
+      <link>https://laichangwen.github.io/tags/french/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/french/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Learned</title>
+      <link>https://laichangwen.github.io/tags/self-learned/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/self-learned/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vocabulary</title>
+      <link>https://laichangwen.github.io/tags/vocabulary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/vocabulary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EBooks</title>
+      <link>https://laichangwen.github.io/tags/ebooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/ebooks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EReader</title>
+      <link>https://laichangwen.github.io/tags/ereader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/ereader/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kindle</title>
+      <link>https://laichangwen.github.io/tags/kindle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/kindle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exploration</title>
+      <link>https://laichangwen.github.io/tags/exploration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/exploration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Feature</title>
+      <link>https://laichangwen.github.io/tags/feature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/feature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mars</title>
+      <link>https://laichangwen.github.io/tags/mars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/mars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cosmos</title>
+      <link>https://laichangwen.github.io/tags/cosmos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/cosmos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Telescopes</title>
+      <link>https://laichangwen.github.io/tags/telescopes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/telescopes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Astronomy</title>
+      <link>https://laichangwen.github.io/tags/astronomy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/astronomy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Telescope</title>
+      <link>https://laichangwen.github.io/tags/telescope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/telescope/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exoplanets</title>
+      <link>https://laichangwen.github.io/tags/exoplanets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/exoplanets/</guid>
       <description></description>
     </item>
     <item>
       <title>Compréhension Écrite</title>
-      <link>https://laichangwen.github.io/hugo_blog/tags/compr%C3%A9hension-%C3%A9crite/</link>
+      <link>https://laichangwen.github.io/tags/compr%C3%A9hension-%C3%A9crite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/hugo_blog/tags/compr%C3%A9hension-%C3%A9crite/</guid>
+      <guid>https://laichangwen.github.io/tags/compr%C3%A9hension-%C3%A9crite/</guid>
       <description></description>
     </item>
   </channel>
