@@ -11,6 +11,7 @@ tags:
   - kindle
   - eBooks
   - eReader
+  - feature
 draft: false
 ---
 

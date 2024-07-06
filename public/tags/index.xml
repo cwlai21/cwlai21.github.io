@@ -30,6 +30,13 @@
       <description></description>
     </item>
     <item>
+      <title>Feature</title>
+      <link>https://laichangwen.github.io/tags/feature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/feature/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Macro</title>
       <link>https://laichangwen.github.io/tags/macro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -86,13 +93,6 @@
       <description></description>
     </item>
     <item>
-      <title>Supernova</title>
-      <link>https://laichangwen.github.io/tags/supernova/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/supernova/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Anki</title>
       <link>https://laichangwen.github.io/tags/anki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -142,31 +142,17 @@
       <description></description>
     </item>
     <item>
-      <title>Exploration</title>
-      <link>https://laichangwen.github.io/tags/exploration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/exploration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Feature</title>
-      <link>https://laichangwen.github.io/tags/feature/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/feature/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mars</title>
-      <link>https://laichangwen.github.io/tags/mars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/mars/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Cosmos</title>
       <link>https://laichangwen.github.io/tags/cosmos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://laichangwen.github.io/tags/cosmos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exploration</title>
+      <link>https://laichangwen.github.io/tags/exploration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/exploration/</guid>
       <description></description>
     </item>
     <item>
@@ -202,6 +188,90 @@
       <link>https://laichangwen.github.io/tags/compr%C3%A9hension-%C3%A9crite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://laichangwen.github.io/tags/compr%C3%A9hension-%C3%A9crite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>African-American Issues</title>
+      <link>https://laichangwen.github.io/tags/african-american-issues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/african-american-issues/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Identity</title>
+      <link>https://laichangwen.github.io/tags/self-identity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/self-identity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transformation</title>
+      <link>https://laichangwen.github.io/tags/transformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/transformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://laichangwen.github.io/tags/business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Detective-Fiction</title>
+      <link>https://laichangwen.github.io/tags/detective-fiction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/detective-fiction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Profiling</title>
+      <link>https://laichangwen.github.io/tags/profiling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/profiling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Class</title>
+      <link>https://laichangwen.github.io/tags/class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/class/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life-Style</title>
+      <link>https://laichangwen.github.io/tags/life-style/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/life-style/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wine-Tasting</title>
+      <link>https://laichangwen.github.io/tags/wine-tasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/wine-tasting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Attention-Capturing</title>
+      <link>https://laichangwen.github.io/tags/attention-capturing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/attention-capturing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Economics</title>
+      <link>https://laichangwen.github.io/tags/economics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/economics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scarcity</title>
+      <link>https://laichangwen.github.io/tags/scarcity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/scarcity/</guid>
       <description></description>
     </item>
   </channel>
