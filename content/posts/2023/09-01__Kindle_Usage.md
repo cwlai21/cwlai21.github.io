@@ -60,7 +60,7 @@ PuBu採用DRM free的方式將電子書檔案提供給使用者，然而樂天Ko
 
      - 直接在網頁上傳檔案或是透過email 附件
 
-![](http://localhost:1313/images/library.jpg)
+![](/images/library.jpg)
 
 ## 閱讀器選擇 - 電子書閱讀器 vs 平板/手機
 
@@ -87,7 +87,7 @@ Keyword: Custom Service
 透過[Amazon customer service](www.amazon.com/hz/contact-us/foresight/hubgateway)，請對方協助將廣告版的廣告免費移除
 每個人的第一台機器理論上都可以獲得此福利，之後的設備則須支付原價20-25美金的費用
 
-![](http://localhost:1313/images/kindle_customer.jpg)
+![](/images/kindle_customer.jpg)
 
 移除後，all setting - > Device options - >  switch on Display Cover
 
