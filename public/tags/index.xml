@@ -2,206 +2,206 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bon Courage</title>
-    <link>https://laichangwen.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Jul 2024 09:30:32 +0700</lastBuildDate>
-    <atom:link href="https://laichangwen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kpi</title>
-      <link>https://laichangwen.github.io/tags/kpi/</link>
+      <link>http://localhost:1313/tags/kpi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/kpi/</guid>
+      <guid>http://localhost:1313/tags/kpi/</guid>
       <description></description>
     </item>
     <item>
       <title>Quantify</title>
-      <link>https://laichangwen.github.io/tags/quantify/</link>
+      <link>http://localhost:1313/tags/quantify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/quantify/</guid>
+      <guid>http://localhost:1313/tags/quantify/</guid>
       <description></description>
     </item>
     <item>
       <title>Self-Growth</title>
-      <link>https://laichangwen.github.io/tags/self-growth/</link>
+      <link>http://localhost:1313/tags/self-growth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/self-growth/</guid>
+      <guid>http://localhost:1313/tags/self-growth/</guid>
       <description></description>
     </item>
     <item>
       <title>Macro</title>
-      <link>https://laichangwen.github.io/tags/macro/</link>
+      <link>http://localhost:1313/tags/macro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/macro/</guid>
+      <guid>http://localhost:1313/tags/macro/</guid>
       <description></description>
     </item>
     <item>
       <title>Scripts</title>
-      <link>https://laichangwen.github.io/tags/scripts/</link>
+      <link>http://localhost:1313/tags/scripts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/scripts/</guid>
+      <guid>http://localhost:1313/tags/scripts/</guid>
       <description></description>
     </item>
     <item>
       <title>TTL</title>
-      <link>https://laichangwen.github.io/tags/ttl/</link>
+      <link>http://localhost:1313/tags/ttl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/ttl/</guid>
+      <guid>http://localhost:1313/tags/ttl/</guid>
       <description></description>
     </item>
     <item>
       <title>Black Hole</title>
-      <link>https://laichangwen.github.io/tags/black-hole/</link>
+      <link>http://localhost:1313/tags/black-hole/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/black-hole/</guid>
+      <guid>http://localhost:1313/tags/black-hole/</guid>
       <description></description>
     </item>
     <item>
       <title>Relativity</title>
-      <link>https://laichangwen.github.io/tags/relativity/</link>
+      <link>http://localhost:1313/tags/relativity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/relativity/</guid>
+      <guid>http://localhost:1313/tags/relativity/</guid>
       <description></description>
     </item>
     <item>
       <title>Space</title>
-      <link>https://laichangwen.github.io/tags/space/</link>
+      <link>http://localhost:1313/tags/space/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/space/</guid>
+      <guid>http://localhost:1313/tags/space/</guid>
       <description></description>
     </item>
     <item>
       <title>Cosmic</title>
-      <link>https://laichangwen.github.io/tags/cosmic/</link>
+      <link>http://localhost:1313/tags/cosmic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/cosmic/</guid>
+      <guid>http://localhost:1313/tags/cosmic/</guid>
       <description></description>
     </item>
     <item>
       <title>Nebula</title>
-      <link>https://laichangwen.github.io/tags/nebula/</link>
+      <link>http://localhost:1313/tags/nebula/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/nebula/</guid>
+      <guid>http://localhost:1313/tags/nebula/</guid>
       <description></description>
     </item>
     <item>
       <title>Supernova</title>
-      <link>https://laichangwen.github.io/tags/supernova/</link>
+      <link>http://localhost:1313/tags/supernova/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/supernova/</guid>
+      <guid>http://localhost:1313/tags/supernova/</guid>
       <description></description>
     </item>
     <item>
       <title>Anki</title>
-      <link>https://laichangwen.github.io/tags/anki/</link>
+      <link>http://localhost:1313/tags/anki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/anki/</guid>
+      <guid>http://localhost:1313/tags/anki/</guid>
       <description></description>
     </item>
     <item>
       <title>French</title>
-      <link>https://laichangwen.github.io/tags/french/</link>
+      <link>http://localhost:1313/tags/french/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/french/</guid>
+      <guid>http://localhost:1313/tags/french/</guid>
       <description></description>
     </item>
     <item>
       <title>Self-Learned</title>
-      <link>https://laichangwen.github.io/tags/self-learned/</link>
+      <link>http://localhost:1313/tags/self-learned/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/self-learned/</guid>
+      <guid>http://localhost:1313/tags/self-learned/</guid>
       <description></description>
     </item>
     <item>
       <title>Vocabulary</title>
-      <link>https://laichangwen.github.io/tags/vocabulary/</link>
+      <link>http://localhost:1313/tags/vocabulary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/vocabulary/</guid>
+      <guid>http://localhost:1313/tags/vocabulary/</guid>
       <description></description>
     </item>
     <item>
       <title>EBooks</title>
-      <link>https://laichangwen.github.io/tags/ebooks/</link>
+      <link>http://localhost:1313/tags/ebooks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/ebooks/</guid>
+      <guid>http://localhost:1313/tags/ebooks/</guid>
       <description></description>
     </item>
     <item>
       <title>EReader</title>
-      <link>https://laichangwen.github.io/tags/ereader/</link>
+      <link>http://localhost:1313/tags/ereader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/ereader/</guid>
+      <guid>http://localhost:1313/tags/ereader/</guid>
       <description></description>
     </item>
     <item>
       <title>Kindle</title>
-      <link>https://laichangwen.github.io/tags/kindle/</link>
+      <link>http://localhost:1313/tags/kindle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/kindle/</guid>
+      <guid>http://localhost:1313/tags/kindle/</guid>
       <description></description>
     </item>
     <item>
       <title>Exploration</title>
-      <link>https://laichangwen.github.io/tags/exploration/</link>
+      <link>http://localhost:1313/tags/exploration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/exploration/</guid>
+      <guid>http://localhost:1313/tags/exploration/</guid>
       <description></description>
     </item>
     <item>
       <title>Feature</title>
-      <link>https://laichangwen.github.io/tags/feature/</link>
+      <link>http://localhost:1313/tags/feature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/feature/</guid>
+      <guid>http://localhost:1313/tags/feature/</guid>
       <description></description>
     </item>
     <item>
       <title>Mars</title>
-      <link>https://laichangwen.github.io/tags/mars/</link>
+      <link>http://localhost:1313/tags/mars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/mars/</guid>
+      <guid>http://localhost:1313/tags/mars/</guid>
       <description></description>
     </item>
     <item>
       <title>Cosmos</title>
-      <link>https://laichangwen.github.io/tags/cosmos/</link>
+      <link>http://localhost:1313/tags/cosmos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/cosmos/</guid>
+      <guid>http://localhost:1313/tags/cosmos/</guid>
       <description></description>
     </item>
     <item>
       <title>Telescopes</title>
-      <link>https://laichangwen.github.io/tags/telescopes/</link>
+      <link>http://localhost:1313/tags/telescopes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/telescopes/</guid>
+      <guid>http://localhost:1313/tags/telescopes/</guid>
       <description></description>
     </item>
     <item>
       <title>Astronomy</title>
-      <link>https://laichangwen.github.io/tags/astronomy/</link>
+      <link>http://localhost:1313/tags/astronomy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/astronomy/</guid>
+      <guid>http://localhost:1313/tags/astronomy/</guid>
       <description></description>
     </item>
     <item>
       <title>Telescope</title>
-      <link>https://laichangwen.github.io/tags/telescope/</link>
+      <link>http://localhost:1313/tags/telescope/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/telescope/</guid>
+      <guid>http://localhost:1313/tags/telescope/</guid>
       <description></description>
     </item>
     <item>
       <title>Exoplanets</title>
-      <link>https://laichangwen.github.io/tags/exoplanets/</link>
+      <link>http://localhost:1313/tags/exoplanets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/exoplanets/</guid>
+      <guid>http://localhost:1313/tags/exoplanets/</guid>
       <description></description>
     </item>
     <item>
       <title>Compréhension Écrite</title>
-      <link>https://laichangwen.github.io/tags/compr%C3%A9hension-%C3%A9crite/</link>
+      <link>http://localhost:1313/tags/compr%C3%A9hension-%C3%A9crite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/compr%C3%A9hension-%C3%A9crite/</guid>
+      <guid>http://localhost:1313/tags/compr%C3%A9hension-%C3%A9crite/</guid>
       <description></description>
     </item>
   </channel>
