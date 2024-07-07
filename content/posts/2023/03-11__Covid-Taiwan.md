@@ -8,7 +8,7 @@ caption: Photo by Daniel Schludi Unsplash.
 categories:
   - taiwan
 tags:
-  - Self-Learned
+  - Language Exchange
   - French
   - Compréhension Écrite
 draft: false

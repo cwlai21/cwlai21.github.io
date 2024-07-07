@@ -8,7 +8,7 @@ caption: Photo by Kenny Eliason Unsplash.
 categories:
   - taiwan
 tags:
-  - Self-Learned
+  - Language Exchange
   - French
   - Compréhension Écrite
 draft: false
