@@ -30,20 +30,6 @@
       <description>Tera Term and PuTTY are both popular terminal emulation program used for remote access to computers or network devices. Both could support various protocols (Telnet, SSH and serial connections).</description>
     </item>
     <item>
-      <title>Python Web Crawler Learning Note</title>
-      <link>https://laichangwen.github.io/posts/2024/python-web-scrawler/</link>
-      <pubDate>Mon, 01 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>https://laichangwen.github.io/posts/2024/python-web-scrawler/</guid>
-      <description>網頁運作原理 通訊協定&#xA;web client &amp;lt;&amp;mdash;&amp;gt; web server&#xA;靜態爬蟲 網頁架構與組成&#xA;HTML, CSS, Javascript 之間的關聯&#xA;分析網頁架構 找到要取得的資訊的標籤名稱作為搜尋的定位點 request 獲得伺服器上回傳的response BeautifulSoup 得到需要的標籤內容 動態爬蟲 用webdriver ＋ selenium 模擬實際用瀏覽器開啟網頁的過程 與瀏覽器相關 動態開啟網頁後，就回歸到靜態爬蟲 進階： Facebook 貼文分析 </description>
-    </item>
-    <item>
-      <title>Fête d&#39;Anniversaire à ChiangMai</title>
-      <link>https://laichangwen.github.io/posts/2024/chiangmai/</link>
-      <pubDate>Wed, 04 Oct 2023 22:11:36 +0700</pubDate>
-      <guid>https://laichangwen.github.io/posts/2024/chiangmai/</guid>
-      <description>In the vast expanse of the cosmos, there are few objects as mysterious and awe-inspiring as black holes. These enigmatic cosmic phenomena, once thought of as nothing more than theoretical curiosities, have now become a central focus of astronomical research.</description>
-    </item>
-    <item>
       <title>Anki 使用心得 - 擴充法文單字量</title>
       <link>https://laichangwen.github.io/posts/2023/anki-usage/</link>
       <pubDate>Tue, 05 Sep 2023 14:15:05 +0700</pubDate>
@@ -56,27 +42,6 @@
       <pubDate>Fri, 01 Sep 2023 14:15:05 +0700</pubDate>
       <guid>https://laichangwen.github.io/posts/2023/kindle-usage/</guid>
       <description>一向偏好紙本書籍閱讀的我，在因緣際會下，在八月入手了Kindle Oasis 閱讀器後，一腳踏進入電子書的新大門。截至目前，在kindle unlimited 第一個月免費試用和不小心續訂了第二個月的強大誘因下，體驗了英法書籍，法文BD (Bande Desinée) 以及中文漫畫的閱讀，整體的使用者體驗相當不錯。&#xA;一來，長時間使用下不會造成眼睛過度的疲勞及乾澀，二來，機器本身相當輕巧，耗電量也不高，隨身攜帶的負擔不會太過沉重，但又可以隨時沉靜在書海中。考量家中不斷減少的閒置書櫃空間和各種推陳出新的有趣新書，這個剁手行為還是相當划算。&#xA;中文電子書 Keyword: Pubu Kobo&#xA;透過PuBu以及樂天Kobo電子書城補足Amazon ebook 中文書籍稀缺的缺口&#xA;前置動作 (one-time job)&#xA;下載Adobe DRM (官網下載) - &amp;gt; 建立Adobe ID - &amp;gt; 授權電腦</description>
-    </item>
-    <item>
-      <title>Git and GitHub Learning Note</title>
-      <link>https://laichangwen.github.io/posts/2024/git-github/</link>
-      <pubDate>Sat, 12 Aug 2023 14:15:05 +0700</pubDate>
-      <guid>https://laichangwen.github.io/posts/2024/git-github/</guid>
-      <description>The universe, with its vastness and complexity, has intrigued humanity for centuries. In recent decades, our understanding of the cosmos has deepened, thanks to groundbreaking discoveries about the expansion of the universe.</description>
-    </item>
-    <item>
-      <title>Linux FileSystem Learning Note</title>
-      <link>https://laichangwen.github.io/posts/2024/linux-filesystem/</link>
-      <pubDate>Sun, 30 Jul 2023 09:30:32 +0700</pubDate>
-      <guid>https://laichangwen.github.io/posts/2024/linux-filesystem/</guid>
-      <description>For three remarkable decades, the Hubble Space Telescope has been our eye on the universe, delivering breathtaking images and transformative scientific insights.</description>
-    </item>
-    <item>
-      <title>Tour de Croatie </title>
-      <link>https://laichangwen.github.io/posts/2024/croatie/</link>
-      <pubDate>Thu, 27 Jul 2023 13:03:07 +0700</pubDate>
-      <guid>https://laichangwen.github.io/posts/2024/croatie/</guid>
-      <description>In the vast tapestry of the cosmos, one of the most intriguing quests of modern astronomy is the search for exoplanets, distant celestial bodies that might bear a resemblance to our own Earth.</description>
     </item>
     <item>
       <title>Les Systèmes de Retraite à Taïwan</title>
@@ -140,13 +105,6 @@
       <pubDate>Thu, 11 Oct 2018 13:45:49 +0700</pubDate>
       <guid>https://laichangwen.github.io/posts/vieux/scarcity_why_having_so_little_means_so_much/</guid>
       <description>人為何總是在「最後期限」之前才把事情完成？貧困為何讓人難以脫身？企業組織為何陷入四處救火的困境？為錢發愁的人為何較難控制衝動？孤單的人為何不容易交到朋友？這些問題看似不相干，但是在背後，作者歸納出同樣的原因：人不斷處於匱乏之中，導致生產力與消費力不斷受到剝削。&#xA;當匱乏擄獲心智時，會迫使我們的注意力專注以最有效的方式處理手邊的匱乏，但相對的也會讓我們視覺範圍狹隘（隧道視野），忽視其他的所有事情(重要但不急迫的事情，高利息的金錢借貸，忽視未來&amp;hellip;.等)，產生「隧道效應」，這類的負面效果成為「隧道負稅」。在隧道之外的事物難以被看清，容易被低估價值和忽略，竟而使人陷入匱乏陷阱，不斷的挖東牆補西牆，只為了完成當下在隧道視野範圍內的緊急問題，讓原本是可預測的是事件反而變成措手不及的意外。&#xA;匱乏更會直接窄化認知頻寬，與先天能力無關，而是關於能力在當下有多少可供用。就像是開了太多瀏覽器頁面的筆電，上網速度只會逐漸趨近龜速，因為可使用的流量頻寬已被大幅削弱。這邊提及的認知頻寬包含了認知流量和執行力控制，其中兩者最顯著的分別為流動智力和自制力。當認知頻寬被匱乏佔據時，流動智力和自制力都將會降低，會使人變得較難控制衝動。&#xA;匱乏強制我們做權衡取捨思維，未能被滿足的需求俘獲我們的注意力，成為我們的當務之急。就像缺錢的時候會特別注意帳單，節食的時候則會特別注意飲食的攝取，對價格和卡路里的了解有充分的警覺，如同專家一般。然而， 當我們有「充裕」的金錢，時間或是體態 「寬鬆」是必然的副產品，其最大的好處是容忍我們有犯錯的空間並給予我們心理上的餘裕，讓我們在即使有些許的錯誤後能引發較低的後果。&#xA;當我們將匱乏重新考慮進我們所遇到的困境時，簡單的幾種方式可以增加認知頻寬亦或是製造寬鬆。&#xA;把需要警惕的行為轉成一次性的行為: 當處於隧道視野時，正確的事情只要做一次，比一再重複做正確的事情來的容易的多&#xA;此外，再存在著的隧道效應和忽視的世界裡，許多事端仰賴時機。現在的需求總是迫切的但一個月後的需求則顯得抽象不具體。所有你打算將在某個時間點，當情況比較平順時做的一些好的決定，真相其實是當未來變成現在，而情況沒有變得比較平順，你不會去做的決定。因此必須明智的做一些預先排除和連結，盡可能讓未來因為某些事進入隧道效應時，仍可以維持動機。</description>
-    </item>
-    <item>
-      <title>懶系投資</title>
-      <link>https://laichangwen.github.io/posts/2024/galactic-marvels/</link>
-      <pubDate>Fri, 01 Jan 2010 11:15:17 +0700</pubDate>
-      <guid>https://laichangwen.github.io/posts/2024/galactic-marvels/</guid>
-      <description>In the vast expanse of the cosmos, one cannot help but be captivated by the breathtaking beauty of nebulae. These celestial marvels are often hidden in the depths of space, waiting to be discovered and admired by astronomers and space enthusiasts alike.</description>
     </item>
   </channel>
 </rss>

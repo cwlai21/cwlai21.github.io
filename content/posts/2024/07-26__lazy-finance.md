@@ -12,7 +12,7 @@ tags:
   - bonds
   - REITs
   - FIRE
-draft: false
+draft: true
 ---
 
 In the vast expanse of the cosmos, one cannot help but be captivated by the breathtaking beauty of nebulae. These celestial marvels are often hidden in the depths of space, waiting to be discovered and admired by astronomers and space enthusiasts alike. In this article, we will embark on a cosmic journey to explore some of the most spectacular nebulas in the cosmos, shedding light on their unique features and the mysteries they hold.

@@ -5,7 +5,7 @@ theme = 'pehtheme-hugo'
 
 paginate = '6' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters
-googleAnalytics = 'G-MEASUREMENT_ID' # <- Your GA-4
+googleAnalytics = 'G-JJZXC5P9FV' # <- Your GA-4
 disqusShortname = 'boncourage-1' # <- Get form here : https://disqus.com
 
 [params]
@@ -33,13 +33,13 @@ disqusShortname = 'boncourage-1' # <- Get form here : https://disqus.com
 		pageRef = '/about'
 		weight = 15
 	[[menu.main]]
+		name = 'Category'
+		pageRef = '/categories'
+		weight = 25
+	[[menu.main]]
 		name = 'Tags'
 		pageRef = '/tags'
 		weight = 20
-	[[menu.main]]
-		name = 'Taxonomy'
-		pageRef = '/tags/space/'
-		weight = 25
 
 [module]
   [module.hugoVersion]

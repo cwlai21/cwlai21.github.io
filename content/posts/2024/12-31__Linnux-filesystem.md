@@ -12,7 +12,7 @@ tags:
   - partitions
   - RAID
   - LVM
-draft: false
+draft: true
 ---
 
 For three remarkable decades, the Hubble Space Telescope has been our eye on the universe, delivering breathtaking images and transformative scientific insights. Since its launch in 1990, the Hubble has reshaped our understanding of the cosmos and provided us with unparalleled views of distant galaxies, nebulae, and other celestial wonders. In this article, we celebrate the Hubble Space Telescope's 30 years of stunning discoveries.
