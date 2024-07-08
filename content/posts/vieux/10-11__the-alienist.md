@@ -9,7 +9,6 @@ categories:
   - books
 tags:
   - detective-fiction
-  - profiling
 draft: false
 ---
 

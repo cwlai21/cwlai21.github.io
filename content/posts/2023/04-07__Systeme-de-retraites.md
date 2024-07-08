@@ -8,9 +8,9 @@ caption: Photo by Kenny Eliason Unsplash.
 categories:
   - taiwan
 tags:
-  - Language Exchange
-  - French
-  - Compréhension Écrite
+  - language exchange
+  - french
+  - compréhension écrite
 draft: false
 ---
 

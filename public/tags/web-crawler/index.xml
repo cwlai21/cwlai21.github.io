@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Crawler on Bon Courage</title>
+    <link>https://laichangwen.github.io/tags/web-crawler/</link>
+    <description>Recent content in Web Crawler on Bon Courage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2024 09:30:32 +0700</lastBuildDate>
+    <atom:link href="https://laichangwen.github.io/tags/web-crawler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Web Crawler Learning Note</title>
+      <link>https://laichangwen.github.io/posts/2024/python-web-scrawler/</link>
+      <pubDate>Mon, 01 Jul 2024 09:30:32 +0700</pubDate>
+      <guid>https://laichangwen.github.io/posts/2024/python-web-scrawler/</guid>
+      <description>網頁運作原理 通訊協定&#xA;web client &amp;lt;&amp;mdash;&amp;gt; web server&#xA;靜態爬蟲 網頁架構與組成&#xA;HTML, CSS, Javascript 之間的關聯&#xA;分析網頁架構 找到要取得的資訊的標籤名稱作為搜尋的定位點 request 獲得伺服器上回傳的response BeautifulSoup 得到需要的標籤內容 動態爬蟲 用webdriver ＋ selenium 模擬實際用瀏覽器開啟網頁的過程 與瀏覽器相關 動態開啟網頁後，就回歸到靜態爬蟲 進階： Facebook 貼文分析 </description>
+    </item>
+  </channel>
+</rss>

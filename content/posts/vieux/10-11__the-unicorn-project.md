@@ -9,7 +9,7 @@ categories:
   - books
 tags:
   - business
-  - transformation
+  - self-growth
   - french
 draft: false
 ---

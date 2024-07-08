@@ -6,7 +6,7 @@ theme = 'pehtheme-hugo'
 paginate = '6' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters
 googleAnalytics = 'G-MEASUREMENT_ID' # <- Your GA-4
-disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.com
+disqusShortname = 'boncourage-1' # <- Get form here : https://disqus.com
 
 [params]
 	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
@@ -15,7 +15,11 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 
 [author]
 	name = 'Wendy Lai'
-	bio = 'Debitis assumenda esse dignissimos aperiam delectus maxime tenetur repudiandae dolore'
+	bio = """
+	熱情會形成你的態度，而態度會決定高度，高度決定格局，格局又最終決定結局
+	À cœur vaillant rien d'impossible.
+	"""
+
 	avatar = '/images/nasa-astronaut-unsplash.jpg'
 	twitter = 'https://twitter.com/insertapps'
 

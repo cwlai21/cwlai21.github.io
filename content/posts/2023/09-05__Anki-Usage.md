@@ -11,7 +11,8 @@ tags:
   - anki
   - vocabulary
   - self-learned
-  - French
+  - french
+  - self-growth
 draft: false
 ---
 

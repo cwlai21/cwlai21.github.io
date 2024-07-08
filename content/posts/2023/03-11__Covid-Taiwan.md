@@ -8,9 +8,9 @@ caption: Photo by Daniel Schludi Unsplash.
 categories:
   - taiwan
 tags:
-  - Language Exchange
-  - French
-  - Compréhension Écrite
+  - language exchange
+  - french
+  - compréhension écrite
 draft: false
 ---
 

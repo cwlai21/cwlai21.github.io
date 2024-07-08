@@ -8,7 +8,7 @@ caption: Photo by Jeremy Bishop Unsplash.
 categories:
   - books
 tags:
-  - self-Growth
+  - self-growth
   - transformation
   - french
 draft: false

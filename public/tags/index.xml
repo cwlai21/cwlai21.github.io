@@ -79,38 +79,45 @@
       <description></description>
     </item>
     <item>
-      <title>Black Hole</title>
-      <link>https://laichangwen.github.io/tags/black-hole/</link>
+      <title>BeautifulSoup</title>
+      <link>https://laichangwen.github.io/tags/beautifulsoup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/black-hole/</guid>
+      <guid>https://laichangwen.github.io/tags/beautifulsoup/</guid>
       <description></description>
     </item>
     <item>
-      <title>Relativity</title>
-      <link>https://laichangwen.github.io/tags/relativity/</link>
+      <title>Python</title>
+      <link>https://laichangwen.github.io/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/relativity/</guid>
+      <guid>https://laichangwen.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
-      <title>Space</title>
-      <link>https://laichangwen.github.io/tags/space/</link>
+      <title>Selenium</title>
+      <link>https://laichangwen.github.io/tags/selenium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/space/</guid>
+      <guid>https://laichangwen.github.io/tags/selenium/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cosmic</title>
-      <link>https://laichangwen.github.io/tags/cosmic/</link>
+      <title>Web Crawler</title>
+      <link>https://laichangwen.github.io/tags/web-crawler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/cosmic/</guid>
+      <guid>https://laichangwen.github.io/tags/web-crawler/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nebula</title>
-      <link>https://laichangwen.github.io/tags/nebula/</link>
+      <title>ChiangMai</title>
+      <link>https://laichangwen.github.io/tags/chiangmai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/nebula/</guid>
+      <guid>https://laichangwen.github.io/tags/chiangmai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Foodie</title>
+      <link>https://laichangwen.github.io/tags/foodie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/foodie/</guid>
       <description></description>
     </item>
     <item>
@@ -156,45 +163,66 @@
       <description></description>
     </item>
     <item>
-      <title>Cosmos</title>
-      <link>https://laichangwen.github.io/tags/cosmos/</link>
+      <title>Commits</title>
+      <link>https://laichangwen.github.io/tags/commits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/cosmos/</guid>
+      <guid>https://laichangwen.github.io/tags/commits/</guid>
       <description></description>
     </item>
     <item>
-      <title>Exploration</title>
-      <link>https://laichangwen.github.io/tags/exploration/</link>
+      <title>Git</title>
+      <link>https://laichangwen.github.io/tags/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/exploration/</guid>
+      <guid>https://laichangwen.github.io/tags/git/</guid>
       <description></description>
     </item>
     <item>
-      <title>Telescopes</title>
-      <link>https://laichangwen.github.io/tags/telescopes/</link>
+      <title>Github</title>
+      <link>https://laichangwen.github.io/tags/github/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/telescopes/</guid>
+      <guid>https://laichangwen.github.io/tags/github/</guid>
       <description></description>
     </item>
     <item>
-      <title>Astronomy</title>
-      <link>https://laichangwen.github.io/tags/astronomy/</link>
+      <title>Filesystem</title>
+      <link>https://laichangwen.github.io/tags/filesystem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/astronomy/</guid>
+      <guid>https://laichangwen.github.io/tags/filesystem/</guid>
       <description></description>
     </item>
     <item>
-      <title>Telescope</title>
-      <link>https://laichangwen.github.io/tags/telescope/</link>
+      <title>LVM</title>
+      <link>https://laichangwen.github.io/tags/lvm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/telescope/</guid>
+      <guid>https://laichangwen.github.io/tags/lvm/</guid>
       <description></description>
     </item>
     <item>
-      <title>Exoplanets</title>
-      <link>https://laichangwen.github.io/tags/exoplanets/</link>
+      <title>Partitions</title>
+      <link>https://laichangwen.github.io/tags/partitions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/exoplanets/</guid>
+      <guid>https://laichangwen.github.io/tags/partitions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RAID</title>
+      <link>https://laichangwen.github.io/tags/raid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/raid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CoastLine</title>
+      <link>https://laichangwen.github.io/tags/coastline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/coastline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Croatie</title>
+      <link>https://laichangwen.github.io/tags/croatie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/croatie/</guid>
       <description></description>
     </item>
     <item>
@@ -219,6 +247,20 @@
       <description></description>
     </item>
     <item>
+      <title>Fiction</title>
+      <link>https://laichangwen.github.io/tags/fiction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/fiction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work</title>
+      <link>https://laichangwen.github.io/tags/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/work/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Business</title>
       <link>https://laichangwen.github.io/tags/business/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -230,13 +272,6 @@
       <link>https://laichangwen.github.io/tags/detective-fiction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://laichangwen.github.io/tags/detective-fiction/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Profiling</title>
-      <link>https://laichangwen.github.io/tags/profiling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laichangwen.github.io/tags/profiling/</guid>
       <description></description>
     </item>
     <item>
@@ -279,6 +314,34 @@
       <link>https://laichangwen.github.io/tags/scarcity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://laichangwen.github.io/tags/scarcity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bonds</title>
+      <link>https://laichangwen.github.io/tags/bonds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/bonds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>https://laichangwen.github.io/tags/finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FIRE</title>
+      <link>https://laichangwen.github.io/tags/fire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/fire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>REITs</title>
+      <link>https://laichangwen.github.io/tags/reits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laichangwen.github.io/tags/reits/</guid>
       <description></description>
     </item>
   </channel>

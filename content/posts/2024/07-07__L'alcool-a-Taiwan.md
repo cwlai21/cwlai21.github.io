@@ -8,9 +8,9 @@ caption: Photo by Zazi Kanamajina Unsplash.
 categories:
   - taiwan
 tags:
-  - Language Exchange
+  - language exchange
   - French
-  - Compréhension Écrite
+  - compréhension écrite
 draft: false
 ---
 
