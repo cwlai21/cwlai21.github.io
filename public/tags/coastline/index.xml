@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CoastLine on Bon Courage</title>
-    <link>https://laichangwen.github.io/tags/coastline/</link>
+    <link>http://localhost:1313/tags/coastline/</link>
     <description>Recent content in CoastLine on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Jul 2023 13:03:07 +0700</lastBuildDate>
-    <atom:link href="https://laichangwen.github.io/tags/coastline/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/coastline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tour de Croatie </title>
-      <link>https://laichangwen.github.io/posts/2024/croatie/</link>
+      <link>http://localhost:1313/posts/2024/croatie/</link>
       <pubDate>Thu, 27 Jul 2023 13:03:07 +0700</pubDate>
-      <guid>https://laichangwen.github.io/posts/2024/croatie/</guid>
+      <guid>http://localhost:1313/posts/2024/croatie/</guid>
       <description>In the vast tapestry of the cosmos, one of the most intriguing quests of modern astronomy is the search for exoplanets, distant celestial bodies that might bear a resemblance to our own Earth.</description>
     </item>
   </channel>

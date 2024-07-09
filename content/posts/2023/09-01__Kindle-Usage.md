@@ -13,7 +13,7 @@ tags:
   - eReader
   - feature
   - self-growth
-draft: false
+draft: true
 ---
 
 一向偏好紙本書籍閱讀的我，在因緣際會下，在八月入手了Kindle Oasis 閱讀器後，一腳踏進入電子書的新大門。截至目前，在kindle unlimited 第一個月免費試用和不小心續訂了第二個月的強大誘因下，體驗了英法書籍，法文BD (Bande Desinée) 以及中文漫畫的閱讀，整體的使用者體驗相當不錯。

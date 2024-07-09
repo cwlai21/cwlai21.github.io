@@ -16,9 +16,9 @@ disqusShortname = 'boncourage-1' # <- Get form here : https://disqus.com
 [author]
 	name = 'Wendy Lai'
 	bio = """
-	熱情會形成你的態度，而態度會決定高度，高度決定格局，格局又最終決定結局
-	À cœur vaillant rien d'impossible.
+	La victoire appartient au plus opiniâtre. À cœur vaillant rien d'impossible.
 	"""
+#熱情會形成你的態度，而態度會決定高度，高度決定格局，格局又最終決定結局
 
 	avatar = '/images/nasa-astronaut-unsplash.jpg'
 	twitter = 'https://twitter.com/insertapps'

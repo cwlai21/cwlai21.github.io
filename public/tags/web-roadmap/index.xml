@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Roadmap on Bon Courage</title>
+    <link>http://localhost:1313/tags/web-roadmap/</link>
+    <description>Recent content in Web Roadmap on Bon Courage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2024 09:30:32 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/web-roadmap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Web Crawler PreView</title>
+      <link>http://localhost:1313/posts/2024/python-web-scrawler-preview/</link>
+      <pubDate>Mon, 01 Jul 2024 09:30:32 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2024/python-web-scrawler-preview/</guid>
+      <description>網頁運作原理 網頁架構與組成&#xA;最基本的元素是HTML，可以視作一棟房子的設計圖，從首頁（index.html）出發，透過指定不同的url通往其他的頁面 在每個html檔案都會有以下的基本架構，由tag和content構成，組出這個房間該有的空間規劃&#xA;&amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;#34;zh-Hant-TW&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;title&amp;gt;網頁標題/出現於瀏覽器頁籤&amp;lt;/title&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width, initial-scale=1.0&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;description&amp;#34; content=&amp;#34;提供搜尋引擎關於網頁頁面內的重要資訊&amp;#34;&amp;gt; &amp;lt;link rel=&amp;#34;stylesheet&amp;#34; href=&amp;#34;style.</description>
+    </item>
+  </channel>
+</rss>

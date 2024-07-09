@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Foodie on Bon Courage</title>
-    <link>https://laichangwen.github.io/tags/foodie/</link>
+    <link>http://localhost:1313/tags/foodie/</link>
     <description>Recent content in Foodie on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Oct 2023 22:11:36 +0700</lastBuildDate>
-    <atom:link href="https://laichangwen.github.io/tags/foodie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/foodie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fête d&#39;Anniversaire à ChiangMai</title>
-      <link>https://laichangwen.github.io/posts/2024/chiangmai/</link>
+      <link>http://localhost:1313/posts/2024/chiangmai/</link>
       <pubDate>Wed, 04 Oct 2023 22:11:36 +0700</pubDate>
-      <guid>https://laichangwen.github.io/posts/2024/chiangmai/</guid>
+      <guid>http://localhost:1313/posts/2024/chiangmai/</guid>
       <description>In the vast expanse of the cosmos, there are few objects as mysterious and awe-inspiring as black holes. These enigmatic cosmic phenomena, once thought of as nothing more than theoretical curiosities, have now become a central focus of astronomical research.</description>
     </item>
     <item>
       <title>Tour de Croatie </title>
-      <link>https://laichangwen.github.io/posts/2024/croatie/</link>
+      <link>http://localhost:1313/posts/2024/croatie/</link>
       <pubDate>Thu, 27 Jul 2023 13:03:07 +0700</pubDate>
-      <guid>https://laichangwen.github.io/posts/2024/croatie/</guid>
+      <guid>http://localhost:1313/posts/2024/croatie/</guid>
       <description>In the vast tapestry of the cosmos, one of the most intriguing quests of modern astronomy is the search for exoplanets, distant celestial bodies that might bear a resemblance to our own Earth.</description>
     </item>
   </channel>
