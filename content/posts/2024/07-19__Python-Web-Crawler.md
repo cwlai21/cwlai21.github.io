@@ -8,7 +8,7 @@ caption: Photo by Chris Ried on Unsplash
 categories:
   - tools
 tags:
-  - web crawler
+  - 爬蟲
   - python
   - beautifulSoup
   - selenium
