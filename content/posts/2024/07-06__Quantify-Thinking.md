@@ -43,7 +43,7 @@ draft: false
 1. 增加行動量
 2. 小心比率陷阱 (百分比例容易帶來安心感陷阱和停滯不前，原始比例才精準)
 
-  ![](http://localhost:1313/images/pdca_plot.png)
+  ![From Product Plan](/images/pdca.png)
 
   ***「增加行動量」  --> 「提高比率」***
 

@@ -2,7 +2,7 @@
 title: "什麼是URL ?"
 date: 2024-07-10T09:30:32+07:00
 slug: /url-definition/
-description: Study note of using Python to execute web scrawler in static and dynamci approaches.
+description: Show the mechanism of URL with DNS server and web server
 image: images/remotar-jobs-s5kTY-Ve1c0-unsplash.jpg
 caption: Photo by Remotar Jobs Unsplash
 categories:

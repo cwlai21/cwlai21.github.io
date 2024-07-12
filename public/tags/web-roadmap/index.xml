@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 01 Jul 2024 09:30:32 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/web-roadmap/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Python Web Crawler PreView</title>
-      <link>http://localhost:1313/posts/2024/python-web-scrawler-preview/</link>
+      <title>為什麼要學爬蟲？</title>
+      <link>http://localhost:1313/posts/2024/python-web-scraper-intro/</link>
       <pubDate>Mon, 01 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2024/python-web-scrawler-preview/</guid>
-      <description>網頁運作原理簡介 Web browser 透過URL 向 DNS Server請求 IP， 詳情可參考 連結&#xA;Web browser 透過該IP 向 Web Server 請求網站資料&#xA;瀏覽器 vs. 伺服器 爬蟲是什麼 </description>
+      <guid>http://localhost:1313/posts/2024/python-web-scraper-intro/</guid>
+      <description>如果想要從網路上取得某個資訊，像是這個月各大書店暢銷書的價格比較，除了開啟好幾個分頁，一本一本比價外，有沒有什麼方式可以一鍵完成呢？&#xA;像這樣重複性高，數量眾多，又與網頁相關的問題，就不得不提到「爬蟲」這件事&#xA;什麼是爬蟲 簡單來說就是透過程式將網路伺服器回傳給瀏覽器的資料擷取下來，從中取得使用者有興趣的部分 以這個例子來說就是某本書的在某個電商平台上的價錢&#xA;網頁運作原理簡介 ref Web browser 透過URL 向 DNS Server請求 IP， 詳情可參考 連結&#xA;Web browser 透過該IP 向 Web Server 請求特定的網站內容 Wev Server 回傳Web browser 網站資料 在網路回傳的路上，我們透過爬蟲程式，獲取那份封包資料，這就是所謂的爬蟲</description>
     </item>
   </channel>
 </rss>

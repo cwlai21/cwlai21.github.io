@@ -2,7 +2,7 @@
 title: "網站是怎麼構成的？"
 date: 2024-07-09T09:30:32+07:00
 slug: /website-component/
-description: Study note of using Python to execute web scrawler in static and dynamci approaches.
+description: Show how sebsite is constructed and the interaction between each components.
 image: images/greg-rakozy-vw3Ahg4x1tY-unsplash.jpg
 caption: Photo by Greg Rakozy on Unsplash
 categories:

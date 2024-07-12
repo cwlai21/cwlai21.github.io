@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Bon Courage</title>
-    <link>http://localhost:1313/tags/python/</link>
+    <link>https://laichangwen.github.io/tags/python/</link>
     <description>Recent content in Python on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2024 09:30:32 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jul 2024 09:30:32 +0700</lastBuildDate>
+    <atom:link href="https://laichangwen.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Python Web Crawler Learning Note</title>
-      <link>http://localhost:1313/posts/2024/python-web-scrawler/</link>
-      <pubDate>Mon, 01 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2024/python-web-scrawler/</guid>
-      <description>什麼是爬蟲？ 靜態爬蟲 分析網頁架構 找到要取得的資訊的標籤名稱作為搜尋的定位點 request 獲得伺服器上回傳的response BeautifulSoup 得到需要的標籤內容 動態爬蟲 用webdriver ＋ selenium 模擬實際用瀏覽器開啟網頁的過程 與瀏覽器相關 動態開啟網頁後，就回歸到靜態爬蟲 進階： Facebook 貼文分析 </description>
+      <title>為什麼要學爬蟲？</title>
+      <link>https://laichangwen.github.io/posts/2024/python-web-scraper-intro/</link>
+      <pubDate>Fri, 12 Jul 2024 09:30:32 +0700</pubDate>
+      <guid>https://laichangwen.github.io/posts/2024/python-web-scraper-intro/</guid>
+      <description>如果想要從網路上取得某個資訊，像是這個月各大書店暢銷書的價格比較，除了開啟好幾個分頁，一本一本比價外，有沒有什麼方式可以一鍵完成呢？&#xA;像這樣重複性高，數量眾多，又與網頁相關的問題，就不得不提到「爬蟲」這件事&#xA;什麼是爬蟲 簡單來說就是透過程式將網路伺服器回傳給瀏覽器的資料擷取下來，從中取得使用者有興趣的部分 以這個例子來說就是某本書的在某個電商平台上的價錢&#xA;要怎麼實作呢？ 安裝Python package (以Python3為例) requests 最常使用到的get這個function 可以從r.text得到我們想要的資訊（針對package的內容以HTTP header為基準做初步的解碼） import requests r = requests.get(&amp;#39;https://www.books.com.tw/&amp;#39;) r.text beautifulsoup 快速解析HTML檔案，是爬蟲中最重要的模組之一 分析網頁架構 （以chrome browser為例） 進入網頁後按右鍵或F12可看在檢查這個選項 點選左上角的按鈕後 找到想要書籍的圖片點下去後 就可以對應到相對的HTML內容 使用上述安裝的packages import requests from bs4 import BeautifulSoup r = requests.</description>
     </item>
   </channel>
 </rss>
