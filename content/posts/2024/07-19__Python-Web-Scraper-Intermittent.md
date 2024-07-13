@@ -1,7 +1,7 @@
 ---
-title: "Python Web Crawler Learning Note"
+title: "Python Web Scraper Intermittent"
 date: 2024-07-01T09:30:32+07:00
-slug: /python-web-scrawler/
+slug: /python-web-scraper-intermittent/
 description: Study note of using Python to execute web scrawler in static and dynamci approaches.
 image: images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 caption: Photo by Chris Ried on Unsplash

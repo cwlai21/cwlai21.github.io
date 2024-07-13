@@ -14,6 +14,12 @@ disqusShortname = 'boncourage-1' # <- Get form here : https://disqus.com
 	mainSections = 'posts'
 	mermaid = true
 
+[sitemap]
+  changeFreq = 'weekly'
+  disable = false
+  filename = 'sitemap.xml'
+  priority = -1
+
 [author]
 	name = 'Wendy Lai'
 	bio = """

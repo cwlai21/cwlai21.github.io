@@ -1,7 +1,7 @@
 ---
 title: "為什麼要學爬蟲？"
 date: 2024-07-12T09:30:32+07:00
-slug: /python-web-Scraper-intro/
+slug: /python-web-scraper-intro/
 description: 解鎖你的網路力-讓你輕鬆徜徉在網路海中，「截」你所需，「取」你所要
 image: images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 caption: Photo by Chris Ried on Unsplash
