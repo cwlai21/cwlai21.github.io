@@ -144,9 +144,10 @@
 <p><img src="/images/books_search.gif" alt=""></p>
 <h2 id="要怎麼實作呢">要怎麼實作呢？</h2>
 <ol>
-<li>安裝Python package (以Python3為例)</li>
+<li>安裝Python 和 Python package (以Python3為例)</li>
 </ol>
 <ul>
+<li>Python <a href="https://www.python.org/downloads/">官網下載</a></li>
 <li>requests
 <ul>
 <li>最常使用到的get這個function</li>
@@ -182,7 +183,7 @@
 </span></span><span style="display:flex;"><span>soup <span style="color:#f92672">=</span> BeautifulSoup(r<span style="color:#f92672">.</span>content, <span style="color:#e6db74">&#34;html.parser&#34;</span>)
 </span></span><span style="display:flex;"><span>price <span style="color:#f92672">=</span> soup<span style="color:#f92672">.</span>find(<span style="color:#e6db74">&#34;ul&#34;</span>,class_<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;price&#34;</span>)<span style="color:#f92672">.</span>find(class_<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;price01&#34;</span>)<span style="color:#f92672">.</span>getText()
 </span></span></code></pre></div><p><img src="/images/bs4_map.png" alt=""></p>
-<p>將BeautifulSoup得到的資料資料加以拆解</p>
+<p>將BeautifulSoup得到的資料加以拆解</p>
 <ul>
 <li>我們要得到的金額是包含在&lt;ul&gt; 這個tag下class屬性是“price”的這個大框架下</li>
 <li>再進一步往下去定位到“price01”這個class</li>

@@ -53,10 +53,6 @@ disqusShortname = 'boncourage-1' # <- Get form here : https://disqus.com
 post = "/:slug/"
 page = "/:slug/"
 
-[params.mermaid]
-theme = "dark"
-align = "center"
-
 
 [markup]
   [markup.goldmark]

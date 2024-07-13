@@ -26,7 +26,8 @@ draft: false
 
 ## 要怎麼實作呢？
 
-1. 安裝Python package (以Python3為例)
+1. 安裝Python 和 Python package (以Python3為例)
+- Python [官網下載](https://www.python.org/downloads/)
 - requests
   - 最常使用到的get這個function
   - 可以從r.text得到我們想要的資訊（針對package的內容以HTTP header為基準做初步的解碼）
@@ -58,7 +59,7 @@ draft: false
 
   ![](/images/bs4_map.png)
   
-  將BeautifulSoup得到的資料資料加以拆解
+  將BeautifulSoup得到的資料加以拆解
   - 我們要得到的金額是包含在\<ul\> 這個tag下class屬性是“price”的這個大框架下
   - 再進一步往下去定位到“price01”這個class
   - 取得最內層的數值，就是我們想要的資訊 
