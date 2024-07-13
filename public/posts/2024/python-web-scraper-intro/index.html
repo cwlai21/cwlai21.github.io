@@ -162,7 +162,8 @@
 </span></span></code></pre></div></li>
 <li>beautifulsoup
 <ul>
-<li>快速解析HTML檔案，是爬蟲中最重要的模組之一</li>
+<li>解析HTML結構，將取回的網頁HTML結構，透過其提供的方法(Method)，能夠輕鬆的搜尋及擷取網頁上所需的資料</li>
+<li>HTML結構和網站組成細節可參考<a href="../../vieux/website-component">網站是怎麼構成的？</a></li>
 </ul>
 </li>
 </ul>
@@ -180,19 +181,58 @@
 <ol start="3">
 <li>使用上述安裝的packages</li>
 </ol>
+<p><img src="/images/bs4_map.png" alt=""></p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Python" data-lang="Python"><span style="display:flex;"><span><span style="color:#f92672">import</span> requests
 </span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> bs4 <span style="color:#f92672">import</span> BeautifulSoup
 </span></span><span style="display:flex;"><span>r <span style="color:#f92672">=</span> requests<span style="color:#f92672">.</span>get(<span style="color:#e6db74">&#39;https://www.books.com.tw/products/0010984894&#39;</span>)
 </span></span><span style="display:flex;"><span>soup <span style="color:#f92672">=</span> BeautifulSoup(r<span style="color:#f92672">.</span>content, <span style="color:#e6db74">&#34;html.parser&#34;</span>)
 </span></span><span style="display:flex;"><span>price <span style="color:#f92672">=</span> soup<span style="color:#f92672">.</span>find(<span style="color:#e6db74">&#34;ul&#34;</span>,class_<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;price&#34;</span>)<span style="color:#f92672">.</span>find(class_<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;price01&#34;</span>)<span style="color:#f92672">.</span>getText()
-</span></span></code></pre></div><p><img src="/images/bs4_map.png" alt=""></p>
-<p>將BeautifulSoup得到的資料加以拆解</p>
+</span></span></code></pre></div><p>將BeautifulSoup得到的資料加以拆解</p>
 <ul>
-<li>我們要得到的金額是包含在&lt;ul&gt; 這個tag下class屬性是“price”的這個大框架下</li>
+<li>soup.find(&lsquo;標籤名稱&rsquo;, ‘屬性’＝&lsquo;數值&rsquo;)
+<ul>
+<li>我們要得到的金額是包含在&lt;ul&gt; 這個標籤下class屬性是“price”的這個大框架下
+<ul>
+<li>亦可用 ‘attrs&rsquo;</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Python" data-lang="Python"><span style="display:flex;"><span>soup<span style="color:#f92672">.</span>find(<span style="color:#e6db74">&#34;ul&#34;</span>, attrs<span style="color:#f92672">=</span>{<span style="color:#e6db74">&#34;class&#34;</span> : <span style="color:#e6db74">&#34;price&#34;</span>})
+</span></span></code></pre></div></li>
 <li>再進一步往下去定位到“price01”這個class</li>
+</ul>
+</li>
+<li>soup.getText()
+<ul>
 <li>取得最內層的數值，就是我們想要的資訊</li>
 </ul>
+</li>
+</ul>
 <p><img src="/images/bs4_demo.gif" alt=""></p>
+<h3 id="其他常用的method">其他常用的Method</h3>
+<ul>
+<li>soup.find_all(&lsquo;標籤名稱&rsquo;)
+<ul>
+<li>擷取文檔內所有同標籤的內容</li>
+</ul>
+</li>
+<li>tag.get(&lsquo;屬性&rsquo;)
+<ul>
+<li>取得標籤中某個屬性的數值</li>
+</ul>
+</li>
+</ul>
+<h3 id="從css類別下手">從CSS類別下手</h3>
+<ul>
+<li>
+<p>soup.select(‘CSS的語法選擇’)</p>
+<ul>
+<li>在CSS中， . 代表class這個屬性， ＃代表id這個屬性， &lsquo;&gt;&rsquo; 則意味著繼續往下一層搜尋的意思</li>
+<li>soup.select_one()， 指的是符合篩選條件的第一個元件</li>
+<li>原本的寫法亦可改寫成這樣</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Python" data-lang="Python"><span style="display:flex;"><span>soup<span style="color:#f92672">.</span>select_one(<span style="color:#e6db74">&#39;ul.price &gt; li &gt; strong.price01&#39;</span>)<span style="color:#f92672">.</span>getText()
+</span></span></code></pre></div><p><img src="/images/bs4_css.png" alt=""></p>
+</li>
+</ul>
 <h2 id="to-be-continued-">To Be Continued &hellip;</h2>
 <p>乍看之下，我們一開始提出的問題好像已經解決了
 但我們要怎麼從電商平台的首頁找到暢銷榜？

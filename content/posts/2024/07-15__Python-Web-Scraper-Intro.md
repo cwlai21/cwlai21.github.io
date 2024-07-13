@@ -37,7 +37,8 @@ draft: false
   r.text
   ```
 - beautifulsoup
-  - 快速解析HTML檔案，是爬蟲中最重要的模組之一
+  - 解析HTML結構，將取回的網頁HTML結構，透過其提供的方法(Method)，能夠輕鬆的搜尋及擷取網頁上所需的資料
+  - HTML結構和網站組成細節可參考[網站是怎麼構成的？](../../vieux/website-component)
 
 ![](/images/packages_install.gif)
 
@@ -49,6 +50,8 @@ draft: false
   ![](/images/html_inspect.gif)
 3. 使用上述安裝的packages
 
+ ![](/images/bs4_map.png)
+
   ```Python
   import requests
   from bs4 import BeautifulSoup
@@ -56,15 +59,36 @@ draft: false
   soup = BeautifulSoup(r.content, "html.parser")
   price = soup.find("ul",class_="price").find(class_="price01").getText()
   ```
-
-  ![](/images/bs4_map.png)
   
   將BeautifulSoup得到的資料加以拆解
-  - 我們要得到的金額是包含在\<ul\> 這個tag下class屬性是“price”的這個大框架下
-  - 再進一步往下去定位到“price01”這個class
-  - 取得最內層的數值，就是我們想要的資訊 
+  - soup.find('標籤名稱', ‘屬性’＝'數值')
+    - 我們要得到的金額是包含在\<ul\> 這個標籤下class屬性是“price”的這個大框架下
+      - 亦可用 ‘attrs'
+      ```Python
+      soup.find("ul", attrs={"class" : "price"})
+      ```
+    - 再進一步往下去定位到“price01”這個class
+  - soup.getText()
+    - 取得最內層的數值，就是我們想要的資訊
+  
+  ![](/images/bs4_demo.gif)
+  
+  ### 其他常用的Method
+  - soup.find_all('標籤名稱')
+    - 擷取文檔內所有同標籤的內容
+  - tag.get('屬性')
+    - 取得標籤中某個屬性的數值
+  ### 從CSS類別下手
+  - soup.select(‘CSS的語法選擇’)
+    - 在CSS中， . 代表class這個屬性， ＃代表id這個屬性， '>' 則意味著繼續往下一層搜尋的意思
+    - soup.select_one()， 指的是符合篩選條件的第一個元件
+    - 原本的寫法亦可改寫成這樣
+    ```Python
+    soup.select_one('ul.price > li > strong.price01').getText()
+    ```
 
-![](/images/bs4_demo.gif)
+    ![](/images/bs4_css.png)
+
 
 ## To Be Continued ...
 乍看之下，我們一開始提出的問題好像已經解決了
