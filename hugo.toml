@@ -12,6 +12,7 @@ disqusShortname = 'boncourage-1' # <- Get form here : https://disqus.com
 	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
 	description = 'Pehtheme Hugo Lite: A minimalist Hugo theme, built with TailwindCSS, for efficient performance and minimalism.'
 	mainSections = 'posts'
+	mermaid = true
 
 [author]
 	name = 'Wendy Lai'

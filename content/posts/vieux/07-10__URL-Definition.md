@@ -11,7 +11,6 @@ tags:
   - 伺服器
   - 瀏覽器
 draft: false
-mermaid: true
 ---
 
 
@@ -37,9 +36,10 @@ https://www.google.com/search?q=weather+of+taipei
 		- 'weather of taipei' 為搜尋的內容
 		- 如果有多項參數會以 ***'&'*** 串連
 
-```mermaid
+{{< mermaid >}}
 sequenceDiagram
     Web Browser->>DNS Server: Request IP address of this domain name
     DNS Server-->>Web Browser: Request granted!
     DNS Server-)Web Browser: Voilà, here is the IP address!
-```
+{{< /mermaid >}}
+  

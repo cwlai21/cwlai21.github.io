@@ -23,13 +23,6 @@
       <description>Tera Term and PuTTY are both popular terminal emulation program used for remote access to computers or network devices. Both could support various protocols (Telnet, SSH and serial connections).</description>
     </item>
     <item>
-      <title>什麼是網路爬蟲</title>
-      <link>https://laichangwen.github.io/posts/vieux/web-scrawler-definition/</link>
-      <pubDate>Mon, 01 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>https://laichangwen.github.io/posts/vieux/web-scrawler-definition/</guid>
-      <description>網頁運作原理簡介 ref Web browser 透過URL 向 DNS Server請求 IP， 詳情可參考 連結&#xA;Web browser 透過該IP 向 Web Server 請求特定的網站內容 Wev Server 回傳Web browser 網站資料 在網路回傳的路上，我們透過爬蟲程式，獲取那份封包資料，這就是所謂的爬蟲</description>
-    </item>
-    <item>
       <title>Anki 使用心得 - 擴充法文單字量</title>
       <link>https://laichangwen.github.io/posts/2023/anki-usage/</link>
       <pubDate>Tue, 05 Sep 2023 14:15:05 +0700</pubDate>
