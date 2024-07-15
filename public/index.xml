@@ -6,8 +6,15 @@
     <description>Recent content on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jul 2024 09:30:32 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 20:37:29 +0700</lastBuildDate>
     <atom:link href="https://laichangwen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://laichangwen.github.io/about/</link>
+      <pubDate>Sun, 14 Jul 2024 20:37:29 +0700</pubDate>
+      <guid>https://laichangwen.github.io/about/</guid>
+      <description>Bon Courage opens the door to the vast universe of knowledge. We are a passionate community of explorers, driven by curiosity, dedicated to sharing the profound beauty and insights of culture, literature, and technology.</description>
+    </item>
     <item>
       <title>為什麼要學爬蟲？</title>
       <link>https://laichangwen.github.io/posts/2024/python-web-scraper-intro/</link>
@@ -49,13 +56,6 @@
       <pubDate>Fri, 05 Jul 2024 22:11:36 +0700</pubDate>
       <guid>https://laichangwen.github.io/posts/2024/tera-term-note/</guid>
       <description>Tera Term and PuTTY are both popular terminal emulation program used for remote access to computers or network devices. Both could support various protocols (Telnet, SSH and serial connections).</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://laichangwen.github.io/about/</link>
-      <pubDate>Fri, 06 Oct 2023 20:37:29 +0700</pubDate>
-      <guid>https://laichangwen.github.io/about/</guid>
-      <description>Pehtheme Hugo is your gateway to the mysteries and wonders of the universe. We are a passionate community of space enthusiasts, scientists, and stargazers dedicated to sharing the awe-inspiring beauty and profound knowledge of the cosmos.</description>
     </item>
     <item>
       <title>Anki 使用心得 - 擴充法文單字量</title>
