@@ -14,7 +14,7 @@ tags:
 draft: true
 ---
 
-  ## 網頁運作原理簡介  
+## 網頁運作原理簡介  
 [ref](https://jimmyswebnote.com/principle-of-website/)
 Web browser 透過URL 向 DNS Server請求 IP， 詳情可參考 [連結](../../vieux/url-definition)  
 Web browser 透過該IP 向 Web Server 請求特定的網站內容
@@ -24,7 +24,15 @@ Wev Server 回傳Web browser [網站資料](../../vieux/website-component)
 
 [ref1](https://hackmd.io/@NCHUIT/1101223)
 
-### Scraper vs. Crawler
+## Scraper vs. Crawler
+
+|        | Web Crawling  | Web Scraping |
+|  ----  | ----  | ----  |
+| Goal  | understand the content of a website | convert specific website content into a structured format, such as tables, JSON, databases, and XML representations|
+| Process  | Gather URL(s), retrieve and analyze the URL(s), save the indexed and store in database   | Determine the target website, extract the necessary date, download data in the intended format  |       
+| Illustration   | [Ref](https://www.baeldung.com/cs/web-crawling-vs-web-scraping)![](/images/web_crawling.png) | [Ref](https://www.baeldung.com/cs/web-crawling-vs-web-scraping)![](/images/web_scraping.png)
+| Scale | Mostly in large scale | in any scale |
+| Application | Search engines like Google, Yahoo, or Bing | stock market analysis utilizes to download financial information from online resources  |
 
 
 

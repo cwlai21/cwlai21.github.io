@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 01 Jul 2024 09:30:32 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Python Web Crawler Learning Note</title>
-      <link>http://localhost:1313/posts/2024/python-web-scrawler/</link>
+      <title>Python Web Scraper Intermittent</title>
+      <link>http://localhost:1313/posts/2024/python-web-scraper-intermittent/</link>
       <pubDate>Mon, 01 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2024/python-web-scrawler/</guid>
+      <guid>http://localhost:1313/posts/2024/python-web-scraper-intermittent/</guid>
       <description>動態爬蟲 Prequisite python packages&#xA;selenium&#xA;webdriver (取決於使用的瀏覽器)&#xA;chrome 版本必須和 chromedriver使用一致的版本 用webdriver ＋ selenium 模擬實際用瀏覽器開啟網頁的過程&#xA;與瀏覽器相關 動態開啟網頁後，就回歸到靜態爬蟲&#xA;破解反爬蟲 ref&#xA;Prequisite python packages</description>
     </item>
   </channel>
