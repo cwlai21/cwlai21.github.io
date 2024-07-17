@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transformation on Bon Courage</title>
-    <link>https://laichangwen.github.io/tags/transformation/</link>
+    <link>http://localhost:1313/tags/transformation/</link>
     <description>Recent content in Transformation on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Sep 2022 09:30:32 +0700</lastBuildDate>
-    <atom:link href="https://laichangwen.github.io/tags/transformation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/transformation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginners: The Joy and Transformative Power of Lifelong Learning</title>
-      <link>https://laichangwen.github.io/posts/vieux/beginners/</link>
+      <link>http://localhost:1313/posts/vieux/beginners/</link>
       <pubDate>Thu, 08 Sep 2022 09:30:32 +0700</pubDate>
-      <guid>https://laichangwen.github.io/posts/vieux/beginners/</guid>
+      <guid>http://localhost:1313/posts/vieux/beginners/</guid>
       <description>J’aime vraiment ce livre：“beginners: the joy and transformative power of lifelong learning”. L’auteur se posait des questions, comme：pourquoi les parents encouragent toujours leurs enfants à apprendre les échecs pour être plus intelligents pendant que les parents se retrouvent en jouant sur leur portable.</description>
     </item>
   </channel>

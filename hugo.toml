@@ -1,4 +1,4 @@
-baseURL = 'https://laichangwen.github.io/'
+baseURL = 'https://cwlai21.github.io/'
 languageCode = 'en-us'
 title = 'Bon Courage'
 theme = 'pehtheme-hugo'
@@ -28,7 +28,7 @@ disqusShortname = 'boncourage-1' # <- Get form here : https://disqus.com
 #熱情會形成你的態度，而態度會決定高度，高度決定格局，格局又最終決定結局
 
 	avatar = '/images/nasa-astronaut-unsplash.jpg'
-	github = 'https://github.com/laichangwen'
+	github = 'https://github.com/cwlai21'
 
 [menu] # Menu management
 	[[menu.main]]

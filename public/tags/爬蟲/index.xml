@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>爬蟲 on Bon Courage</title>
-    <link>https://laichangwen.github.io/tags/%E7%88%AC%E8%9F%B2/</link>
+    <link>http://localhost:1313/tags/%E7%88%AC%E8%9F%B2/</link>
     <description>Recent content in 爬蟲 on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jul 2024 09:30:32 +0700</lastBuildDate>
-    <atom:link href="https://laichangwen.github.io/tags/%E7%88%AC%E8%9F%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%88%AC%E8%9F%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>為什麼要學爬蟲？</title>
-      <link>https://laichangwen.github.io/posts/2024/python-web-scraper-intro/</link>
+      <link>http://localhost:1313/posts/2024/python-web-scraper-intro/</link>
       <pubDate>Fri, 12 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>https://laichangwen.github.io/posts/2024/python-web-scraper-intro/</guid>
+      <guid>http://localhost:1313/posts/2024/python-web-scraper-intro/</guid>
       <description>如果想要從網路上取得某個資訊，像是這個月各大書店暢銷書的價格比較，除了開啟好幾個分頁，一本一本比價外，有沒有什麼方式可以一鍵完成呢？&#xA;像這樣重複性高，數量眾多，又與網頁相關的問題，就不得不提到「爬蟲」這件事&#xA;什麼是爬蟲 簡單來說就是透過程式將網路伺服器回傳給瀏覽器的資料擷取下來，從中取得使用者有興趣的部分 以這個例子來說就是某本書的在某個電商平台上的價錢&#xA;要怎麼實作呢？ 安裝Python 和 Python package (以Python3為例) Python 官網下載 requests 最常使用到的get這個function 可以從r.text得到我們想要的資訊（針對package的內容以HTTP header為基準做初步的解碼） import requests r = requests.</description>
+    </item>
+    <item>
+      <title>Python Web Scraper Intermittent</title>
+      <link>http://localhost:1313/posts/2024/python-web-scraper-intermittent/</link>
+      <pubDate>Mon, 01 Jul 2024 09:30:32 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2024/python-web-scraper-intermittent/</guid>
+      <description>動態爬蟲 Prequisite python packages&#xA;selenium&#xA;webdriver (取決於使用的瀏覽器)&#xA;chrome 版本必須和 chromedriver使用一致的版本 用webdriver ＋ selenium 模擬實際用瀏覽器開啟網頁的過程&#xA;與瀏覽器相關 動態開啟網頁後，就回歸到靜態爬蟲&#xA;破解反爬蟲 ref&#xA;Prequisite python packages</description>
+    </item>
+    <item>
+      <title>什麼是網路爬蟲</title>
+      <link>http://localhost:1313/posts/vieux/web-scrawler-definition/</link>
+      <pubDate>Mon, 01 Jul 2024 09:30:32 +0700</pubDate>
+      <guid>http://localhost:1313/posts/vieux/web-scrawler-definition/</guid>
+      <description>網頁運作原理簡介 ref Web browser 透過URL 向 DNS Server請求 IP， 詳情可參考 連結&#xA;Web browser 透過該IP 向 Web Server 請求特定的網站內容 Wev Server 回傳Web browser 網站資料 在網路回傳的路上，我們透過爬蟲程式，獲取那份封包資料，這就是所謂的爬蟲</description>
     </item>
   </channel>
 </rss>
