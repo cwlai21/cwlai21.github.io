@@ -13,46 +13,20 @@ tags:
 draft: true
 ---
 
-In the vast tapestry of the cosmos, one of the most intriguing quests of modern astronomy is the search for exoplanets, distant celestial bodies that might bear a resemblance to our own Earth. This endeavor is driven by the tantalizing question: Could there be other habitable worlds out there? In this article, we embark on a journey to explore the captivating hunt for Earth's cosmic cousins.
 
-## The Exoplanet Revolution
+## Dubrovnik 杜布羅夫尼克
 
-Keyword: Exoplanet Revolution
+[book shuttle bus from airport to old town] (https://www.bookaway.com/zh/s/croatia/dubrovnik-to-dubrovnik?fromstation=dubrovnik-airport-bus-station&transportType=bus?offer_id=34&aff_id=2070&source=dub)  
 
-Long-term Keyword: Advancements in Exoplanet Discovery
+- 古城牆  
+開放時間：  
+四月至六月10:00 - 17:00  
+七月至九月08:00 - 19:00  
+十月08:00 - 17:30  
+十一月至三月09:00 - 15:00  
+交通方式：登上古城墻的主入口位於老城西側，正對著大噴泉  
+[避開郵輪日](https://cruisedig.com/ports/dubrovnik-croatia/arrivals)
+- 古城
+- 纜車
 
-The hunt for exoplanets has seen remarkable advancements in recent years. Thanks to innovative space telescopes and advanced ground-based observatories, astronomers have identified thousands of exoplanets orbiting distant stars. This revolution has broadened our understanding of planetary systems and fueled our curiosity about potential life beyond our solar system.
-
-## The Methods of Detection
-
-Keyword: Methods of Detection
-
-Long-term Keyword: Techniques for Identifying Exoplanets
-
-Astronomers employ various methods to detect exoplanets. These include the transit method, which observes a planet passing in front of its host star, causing a temporary dip in brightness. Another technique is the radial velocity method, which detects subtle wobbles in a star's motion caused by an orbiting planet's gravitational pull. Each method provides unique insights into exoplanet properties.
-
-## The Search for Habitable Worlds
-
-Keyword: Search for Habitable Worlds
-
-Long-term Keyword: Exploring Exoplanets for Signs of Life
-
-One of the most captivating aspects of exoplanet research is the quest for habitable worlds. Astronomers focus on identifying exoplanets located in the "Goldilocks zone" of their stars, where conditions may be just right for liquid water—a key ingredient for life as we know it. These discoveries offer hope in the search for extraterrestrial life.
-
-## Technological Marvels and Future Missions
-
-Keyword: Technological Marvels
-
-Long-term Keyword: Upcoming Space Missions for Exoplanet Discovery
-
-The future of exoplanet research is incredibly promising. Technologies like NASA's James Webb Space Telescope and ESA's PLATO mission are poised to revolutionize our understanding of exoplanets. These missions will allow us to characterize exoplanet atmospheres and study their potential habitability in unprecedented detail.
-
-## Conclusion: Exploring the Cosmos
-
-Keyword: Exploring the Cosmos
-
-Long-term Keyword: Expanding Horizons in Space Exploration
-
-The quest for exoplanets is a testament to humanity's insatiable curiosity about the cosmos. With each discovery, we inch closer to answering the profound question of whether Earth's cosmic cousins exist. The search for exoplanets continues to inspire scientists and stargazers alike, as we explore the possibilities of life beyond our home planet.
-
-Whether you're an astronomy enthusiast or simply intrigued by the mysteries of the universe, the journey to find Earth's cosmic cousins is an awe-inspiring endeavor. It reminds us that the cosmos is a vast playground of exploration, where the next great discovery may be just a telescope's gaze away.
+[Ref] (https://www.bring-you.info/zh-tw/dubrovnik)

@@ -2,367 +2,227 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bon Courage</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://cwlai21.github.io/tags/</link>
     <description>Recent content in Tags on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jul 2024 09:30:32 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cwlai21.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feature</title>
-      <link>http://localhost:1313/tags/feature/</link>
+      <link>https://cwlai21.github.io/tags/feature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/feature/</guid>
+      <guid>https://cwlai21.github.io/tags/feature/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://cwlai21.github.io/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://cwlai21.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>爬蟲</title>
-      <link>http://localhost:1313/tags/%E7%88%AC%E8%9F%B2/</link>
+      <link>https://cwlai21.github.io/tags/%E7%88%AC%E8%9F%B2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E7%88%AC%E8%9F%B2/</guid>
+      <guid>https://cwlai21.github.io/tags/%E7%88%AC%E8%9F%B2/</guid>
       <description></description>
     </item>
     <item>
       <title>伺服器</title>
-      <link>http://localhost:1313/tags/%E4%BC%BA%E6%9C%8D%E5%99%A8/</link>
+      <link>https://cwlai21.github.io/tags/%E4%BC%BA%E6%9C%8D%E5%99%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E4%BC%BA%E6%9C%8D%E5%99%A8/</guid>
+      <guid>https://cwlai21.github.io/tags/%E4%BC%BA%E6%9C%8D%E5%99%A8/</guid>
       <description></description>
     </item>
     <item>
       <title>瀏覽器</title>
-      <link>http://localhost:1313/tags/%E7%80%8F%E8%A6%BD%E5%99%A8/</link>
+      <link>https://cwlai21.github.io/tags/%E7%80%8F%E8%A6%BD%E5%99%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E7%80%8F%E8%A6%BD%E5%99%A8/</guid>
+      <guid>https://cwlai21.github.io/tags/%E7%80%8F%E8%A6%BD%E5%99%A8/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML</title>
-      <link>http://localhost:1313/tags/html/</link>
+      <link>https://cwlai21.github.io/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/html/</guid>
+      <guid>https://cwlai21.github.io/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Compréhension Écrite</title>
-      <link>http://localhost:1313/tags/compr%C3%A9hension-%C3%A9crite/</link>
+      <link>https://cwlai21.github.io/tags/compr%C3%A9hension-%C3%A9crite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/compr%C3%A9hension-%C3%A9crite/</guid>
+      <guid>https://cwlai21.github.io/tags/compr%C3%A9hension-%C3%A9crite/</guid>
       <description></description>
     </item>
     <item>
       <title>French</title>
-      <link>http://localhost:1313/tags/french/</link>
+      <link>https://cwlai21.github.io/tags/french/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/french/</guid>
+      <guid>https://cwlai21.github.io/tags/french/</guid>
       <description></description>
     </item>
     <item>
       <title>Language Exchange</title>
-      <link>http://localhost:1313/tags/language-exchange/</link>
+      <link>https://cwlai21.github.io/tags/language-exchange/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/language-exchange/</guid>
+      <guid>https://cwlai21.github.io/tags/language-exchange/</guid>
       <description></description>
     </item>
     <item>
       <title>Kpi</title>
-      <link>http://localhost:1313/tags/kpi/</link>
+      <link>https://cwlai21.github.io/tags/kpi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/kpi/</guid>
+      <guid>https://cwlai21.github.io/tags/kpi/</guid>
       <description></description>
     </item>
     <item>
       <title>Quantify</title>
-      <link>http://localhost:1313/tags/quantify/</link>
+      <link>https://cwlai21.github.io/tags/quantify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/quantify/</guid>
+      <guid>https://cwlai21.github.io/tags/quantify/</guid>
       <description></description>
     </item>
     <item>
       <title>Self-Growth</title>
-      <link>http://localhost:1313/tags/self-growth/</link>
+      <link>https://cwlai21.github.io/tags/self-growth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/self-growth/</guid>
+      <guid>https://cwlai21.github.io/tags/self-growth/</guid>
       <description></description>
     </item>
     <item>
       <title>Macro</title>
-      <link>http://localhost:1313/tags/macro/</link>
+      <link>https://cwlai21.github.io/tags/macro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/macro/</guid>
+      <guid>https://cwlai21.github.io/tags/macro/</guid>
       <description></description>
     </item>
     <item>
       <title>Scripts</title>
-      <link>http://localhost:1313/tags/scripts/</link>
+      <link>https://cwlai21.github.io/tags/scripts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/scripts/</guid>
+      <guid>https://cwlai21.github.io/tags/scripts/</guid>
       <description></description>
     </item>
     <item>
       <title>TTL</title>
-      <link>http://localhost:1313/tags/ttl/</link>
+      <link>https://cwlai21.github.io/tags/ttl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ttl/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>BeautifulSoup</title>
-      <link>http://localhost:1313/tags/beautifulsoup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/beautifulsoup/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Selenium</title>
-      <link>http://localhost:1313/tags/selenium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/selenium/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ChiangMai</title>
-      <link>http://localhost:1313/tags/chiangmai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/chiangmai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Foodie</title>
-      <link>http://localhost:1313/tags/foodie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/foodie/</guid>
+      <guid>https://cwlai21.github.io/tags/ttl/</guid>
       <description></description>
     </item>
     <item>
       <title>Anki</title>
-      <link>http://localhost:1313/tags/anki/</link>
+      <link>https://cwlai21.github.io/tags/anki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/anki/</guid>
+      <guid>https://cwlai21.github.io/tags/anki/</guid>
       <description></description>
     </item>
     <item>
       <title>Self-Learned</title>
-      <link>http://localhost:1313/tags/self-learned/</link>
+      <link>https://cwlai21.github.io/tags/self-learned/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/self-learned/</guid>
+      <guid>https://cwlai21.github.io/tags/self-learned/</guid>
       <description></description>
     </item>
     <item>
       <title>Vocabulary</title>
-      <link>http://localhost:1313/tags/vocabulary/</link>
+      <link>https://cwlai21.github.io/tags/vocabulary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/vocabulary/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>EBooks</title>
-      <link>http://localhost:1313/tags/ebooks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ebooks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>EReader</title>
-      <link>http://localhost:1313/tags/ereader/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ereader/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kindle</title>
-      <link>http://localhost:1313/tags/kindle/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/kindle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Commits</title>
-      <link>http://localhost:1313/tags/commits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/commits/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Git</title>
-      <link>http://localhost:1313/tags/git/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/git/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Github</title>
-      <link>http://localhost:1313/tags/github/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/github/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filesystem</title>
-      <link>http://localhost:1313/tags/filesystem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/filesystem/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LVM</title>
-      <link>http://localhost:1313/tags/lvm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lvm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Partitions</title>
-      <link>http://localhost:1313/tags/partitions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/partitions/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>RAID</title>
-      <link>http://localhost:1313/tags/raid/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/raid/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CoastLine</title>
-      <link>http://localhost:1313/tags/coastline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/coastline/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Croatie</title>
-      <link>http://localhost:1313/tags/croatie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/croatie/</guid>
+      <guid>https://cwlai21.github.io/tags/vocabulary/</guid>
       <description></description>
     </item>
     <item>
       <title>African-American Issues</title>
-      <link>http://localhost:1313/tags/african-american-issues/</link>
+      <link>https://cwlai21.github.io/tags/african-american-issues/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/african-american-issues/</guid>
+      <guid>https://cwlai21.github.io/tags/african-american-issues/</guid>
       <description></description>
     </item>
     <item>
       <title>Self-Identity</title>
-      <link>http://localhost:1313/tags/self-identity/</link>
+      <link>https://cwlai21.github.io/tags/self-identity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/self-identity/</guid>
+      <guid>https://cwlai21.github.io/tags/self-identity/</guid>
       <description></description>
     </item>
     <item>
       <title>Transformation</title>
-      <link>http://localhost:1313/tags/transformation/</link>
+      <link>https://cwlai21.github.io/tags/transformation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/transformation/</guid>
+      <guid>https://cwlai21.github.io/tags/transformation/</guid>
       <description></description>
     </item>
     <item>
       <title>Fiction</title>
-      <link>http://localhost:1313/tags/fiction/</link>
+      <link>https://cwlai21.github.io/tags/fiction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fiction/</guid>
+      <guid>https://cwlai21.github.io/tags/fiction/</guid>
       <description></description>
     </item>
     <item>
       <title>Work</title>
-      <link>http://localhost:1313/tags/work/</link>
+      <link>https://cwlai21.github.io/tags/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/work/</guid>
+      <guid>https://cwlai21.github.io/tags/work/</guid>
       <description></description>
     </item>
     <item>
       <title>Business</title>
-      <link>http://localhost:1313/tags/business/</link>
+      <link>https://cwlai21.github.io/tags/business/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/business/</guid>
+      <guid>https://cwlai21.github.io/tags/business/</guid>
       <description></description>
     </item>
     <item>
       <title>Detective-Fiction</title>
-      <link>http://localhost:1313/tags/detective-fiction/</link>
+      <link>https://cwlai21.github.io/tags/detective-fiction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/detective-fiction/</guid>
+      <guid>https://cwlai21.github.io/tags/detective-fiction/</guid>
       <description></description>
     </item>
     <item>
       <title>Class</title>
-      <link>http://localhost:1313/tags/class/</link>
+      <link>https://cwlai21.github.io/tags/class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/class/</guid>
+      <guid>https://cwlai21.github.io/tags/class/</guid>
       <description></description>
     </item>
     <item>
       <title>Life-Style</title>
-      <link>http://localhost:1313/tags/life-style/</link>
+      <link>https://cwlai21.github.io/tags/life-style/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/life-style/</guid>
+      <guid>https://cwlai21.github.io/tags/life-style/</guid>
       <description></description>
     </item>
     <item>
       <title>Wine-Tasting</title>
-      <link>http://localhost:1313/tags/wine-tasting/</link>
+      <link>https://cwlai21.github.io/tags/wine-tasting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wine-tasting/</guid>
+      <guid>https://cwlai21.github.io/tags/wine-tasting/</guid>
       <description></description>
     </item>
     <item>
       <title>Attention-Capturing</title>
-      <link>http://localhost:1313/tags/attention-capturing/</link>
+      <link>https://cwlai21.github.io/tags/attention-capturing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/attention-capturing/</guid>
+      <guid>https://cwlai21.github.io/tags/attention-capturing/</guid>
       <description></description>
     </item>
     <item>
       <title>Economics</title>
-      <link>http://localhost:1313/tags/economics/</link>
+      <link>https://cwlai21.github.io/tags/economics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/economics/</guid>
+      <guid>https://cwlai21.github.io/tags/economics/</guid>
       <description></description>
     </item>
     <item>
       <title>Scarcity</title>
-      <link>http://localhost:1313/tags/scarcity/</link>
+      <link>https://cwlai21.github.io/tags/scarcity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/scarcity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bonds</title>
-      <link>http://localhost:1313/tags/bonds/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bonds/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Finance</title>
-      <link>http://localhost:1313/tags/finance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/finance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FIRE</title>
-      <link>http://localhost:1313/tags/fire/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fire/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>REITs</title>
-      <link>http://localhost:1313/tags/reits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/reits/</guid>
+      <guid>https://cwlai21.github.io/tags/scarcity/</guid>
       <description></description>
     </item>
   </channel>

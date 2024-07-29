@@ -2,32 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>伺服器 on Bon Courage</title>
-    <link>http://localhost:1313/tags/%E4%BC%BA%E6%9C%8D%E5%99%A8/</link>
+    <link>https://cwlai21.github.io/tags/%E4%BC%BA%E6%9C%8D%E5%99%A8/</link>
     <description>Recent content in 伺服器 on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jul 2024 09:30:32 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E4%BC%BA%E6%9C%8D%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cwlai21.github.io/tags/%E4%BC%BA%E6%9C%8D%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>什麼是URL ?</title>
-      <link>http://localhost:1313/posts/vieux/url-definition/</link>
+      <link>https://cwlai21.github.io/posts/vieux/url-definition/</link>
       <pubDate>Wed, 10 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/posts/vieux/url-definition/</guid>
+      <guid>https://cwlai21.github.io/posts/vieux/url-definition/</guid>
       <description>我們所說的網址，專業的說法是URL (Uniform Resource Locator)，用來告知瀏覽器該用什麼方式和去哪一個位置取得網頁內容&#xA;但究竟是怎麼辦到的呢？&#xA;拆解URL https://www.google.com/search?q=weather+of+taipei&#xA;[Protocol]://[Domain Name]/[Path]&#xA;Protocol [https] http or https: s代表著secure，會以加密的方式進行網頁傳輸 ftps: 檔案傳輸協定 mailto: 電子郵件傳輸 smb: 在資料夾開啟共享後，可在windows 和 mac電腦之間進行資料的傳輸 Domain name [www.</description>
     </item>
     <item>
       <title>網站是怎麼構成的？</title>
-      <link>http://localhost:1313/posts/vieux/website-component/</link>
+      <link>https://cwlai21.github.io/posts/vieux/website-component/</link>
       <pubDate>Tue, 09 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/posts/vieux/website-component/</guid>
+      <guid>https://cwlai21.github.io/posts/vieux/website-component/</guid>
       <description>最基本的元素是HTML，可以視作一棟房子的設計圖，從首頁（index.html）出發，透過指定不同的url通往其他的頁面 在每個html檔案都會有以下的基本架構，由tag和content構成，組出這個房間該有的空間規劃&#xA;&amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;#34;zh-Hant-TW&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;title&amp;gt;網頁標題/出現於瀏覽器頁籤&amp;lt;/title&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width, initial-scale=1.0&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;description&amp;#34; content=&amp;#34;提供搜尋引擎關於網頁頁面內的重要資訊&amp;#34;&amp;gt; &amp;lt;link rel=&amp;#34;stylesheet&amp;#34; href=&amp;#34;style.css&amp;#34;&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;header&amp;gt; &amp;lt;nav&amp;gt; &amp;lt;span class=&amp;#34;nav-title&amp;#34;&amp;gt;My Website&amp;lt;/span&amp;gt; &amp;lt;ul class=&amp;#34;nav-link&amp;#34;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Who am I&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;My Work&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Contact me&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt; &amp;lt;/header&amp;gt; &amp;lt;main&amp;gt; &amp;lt;/main&amp;gt; &amp;lt;footer&amp;gt; &amp;lt;/footer&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; 單純的html文檔是如此的蒼白無力 若加上了如同房間裝潢的CSS，自然多了點生機</description>
-    </item>
-    <item>
-      <title>什麼是網路爬蟲</title>
-      <link>http://localhost:1313/posts/vieux/web-scrawler-definition/</link>
-      <pubDate>Mon, 01 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/posts/vieux/web-scrawler-definition/</guid>
-      <description>網頁運作原理簡介 ref Web browser 透過URL 向 DNS Server請求 IP， 詳情可參考 連結&#xA;Web browser 透過該IP 向 Web Server 請求特定的網站內容 Wev Server 回傳Web browser 網站資料 在網路回傳的路上，我們透過爬蟲程式，獲取那份封包資料，這就是所謂的爬蟲</description>
     </item>
   </channel>
 </rss>
