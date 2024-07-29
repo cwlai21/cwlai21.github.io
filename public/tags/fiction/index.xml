@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fiction on Bon Courage</title>
-    <link>https://cwlai21.github.io/tags/fiction/</link>
+    <link>http://localhost:1313/tags/fiction/</link>
     <description>Recent content in Fiction on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Feb 2022 09:30:32 +0700</lastBuildDate>
-    <atom:link href="https://cwlai21.github.io/tags/fiction/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fiction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>正常人的條件</title>
-      <link>https://cwlai21.github.io/posts/vieux/conditions-to-be-normal/</link>
+      <link>http://localhost:1313/posts/vieux/conditions-to-be-normal/</link>
       <pubDate>Fri, 18 Feb 2022 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/vieux/conditions-to-be-normal/</guid>
+      <guid>http://localhost:1313/posts/vieux/conditions-to-be-normal/</guid>
       <description>在職場如戰場的現今，不乏爾虞我詐的上司為了活的像個人，不惜以下屬為代價，守成自己的地位和現況&#xA;但存在這樣的一個動物園，動物們活的更像是個人，有自由的下班時間，思考的空間和餘裕，共同抵禦外敵的同事情懷，當然最大的賣點就是滿足人類對於各種動物的想像&#xA;會捶打自己胸口，吃著遊客打賞的香蕉以及會攀登帝國大廈的大猩猩，相對於總是在睡覺或是不知所蹤的一般動物園，這個園地吸引了偷情的男女，不順遂的人們，在發洩情慾的同時得到高高在上的尊榮感&#xA;然而壓垮駱駝的最後一根稻草，從來都不是大環境的壓迫，而是集體信念崩塌的那一個瞬間。園內的領袖指標決定離開動物園，踏上剛果追尋自我，看似在小不過的事件，卻引發了核彈級的影響。&#xA;動物們的脫序和失蹤，接連的在動物園上演，園方和飼養員卻一點頭緒也沒有，雪上加霜的是遊客的流失和財物的窘境，都大大的影響了這個動物園生態。&#xA;留下來的人總是最痛苦的，但能突破困境的方式也是在於人。當一點點希望的種子稍稍萌芽，明天又將是璀璨且絢麗的。</description>
     </item>
   </channel>
