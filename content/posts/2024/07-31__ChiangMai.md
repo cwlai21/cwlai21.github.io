@@ -1,6 +1,6 @@
 ---
 title: "Fête d'Anniversaire à ChiangMai"
-date: 2023-10-04T22:11:36+07:00
+date: 2024-07-29T22:11:36+07:00
 slug: /chiangmai/
 description: Exploring the mysteries of black holes, the enigmatic cosmic phenomena.
 image: images/giuliano-di-paolo-G5nZkhxXYMU-unsplash.jpg
@@ -10,7 +10,7 @@ categories:
 tags:
   - ChiangMai
   - foodie
-draft: true
+draft: false
 ---
 
 蘭納王朝  
@@ -83,6 +83,15 @@ Ref: [Klook Trip](https://www.klook.com/zh-TW/activity/384-doi-inthanon-national
 [Ref] (https://chiangmaijourney.com/best-restaurants-in-chiang-mai/)
 
 ## Coffee Shop
+[Ref] (https://chiangmaijourney.com/chiang-mai-cafe-guide-best-hipster-cafes-in-chiang-mai/)  
+泰國知名的Malou Tea Atelier冷泡茶
+- Roast8ry Coffee Flagship Store  
+拉花冠軍咖啡店，如果專程為拉花而來可以試試Satan Latte，有獨角獸、鹿、狐狸、兔子這四個在世界拉花比賽獲冠軍的圖案可以選，但價格稍貴，每杯要180銖，其他咖啡則是一般收費。
+地址：24 Tambon, 9 Nimmana Haeminda Rd Lane 17, Suthep, Mueang Chiang Mai District, Chiang Mai 50200 
+[Ref] (https://chiangmaijourney.com/top-10-most-instagram-worthy-cafes-in-chiang-mai/)  
+- Cafe Arte
+地址：155/4 Moo 2, Jed Yod-Yu Yun Road, Soi 8, Mueang Chiang Mai 50300
+營業時間：9am-5pm，逢星期四休息
 
 ## Shopping
 - Maya馬雅百貨
