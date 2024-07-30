@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TTL on Bon Courage</title>
-    <link>http://localhost:1313/tags/ttl/</link>
+    <link>https://cwlai21.github.io/tags/ttl/</link>
     <description>Recent content in TTL on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jul 2024 22:11:36 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ttl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cwlai21.github.io/tags/ttl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tera Term Learning Note</title>
-      <link>http://localhost:1313/posts/2024/tera-term-note/</link>
+      <link>https://cwlai21.github.io/posts/2024/tera-term-note/</link>
       <pubDate>Fri, 05 Jul 2024 22:11:36 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2024/tera-term-note/</guid>
+      <guid>https://cwlai21.github.io/posts/2024/tera-term-note/</guid>
       <description>Tera Term and PuTTY are both popular terminal emulation program used for remote access to computers or network devices. Both could support various protocols (Telnet, SSH and serial connections).</description>
     </item>
   </channel>
