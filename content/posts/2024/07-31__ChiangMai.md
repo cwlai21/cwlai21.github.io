@@ -1,6 +1,6 @@
 ---
-title: "Fête d'Anniversaire à ChiangMai"
-date: 2024-07-29T22:11:36+07:00
+title: "Note for ChiangMai"
+date: 2024-08-01T22:11:36+07:00
 slug: /chiangmai/
 description: Exploring the mysteries of black holes, the enigmatic cosmic phenomena.
 image: images/giuliano-di-paolo-G5nZkhxXYMU-unsplash.jpg
