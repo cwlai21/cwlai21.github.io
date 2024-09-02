@@ -47,12 +47,20 @@ Long-term Keyword: Upcoming Space Missions for Exoplanet Discovery
 
 The future of exoplanet research is incredibly promising. Technologies like NASA's James Webb Space Telescope and ESA's PLATO mission are poised to revolutionize our understanding of exoplanets. These missions will allow us to characterize exoplanet atmospheres and study their potential habitability in unprecedented detail.
 
-## Conclusion: Exploring the Cosmos
+## Zagreb
 
-Keyword: Exploring the Cosmos
+Keyword: Old Town
 
-Long-term Keyword: Expanding Horizons in Space Exploration
+札格雷布不可錯過的舊城區景點：
 
-The quest for exoplanets is a testament to humanity's insatiable curiosity about the cosmos. With each discovery, we inch closer to answering the profound question of whether Earth's cosmic cousins exist. The search for exoplanets continues to inspire scientists and stargazers alike, as we explore the possibilities of life beyond our home planet.
+1.耶拉其恰廣場(Trg Bana Josipa Jelacica)：札格雷布車站前的著名廣場，銀行密集林立，需要庫那在這邊利用歐元兌換最划算
 
-Whether you're an astronomy enthusiast or simply intrigued by the mysteries of the universe, the journey to find Earth's cosmic cousins is an awe-inspiring endeavor. It reminds us that the cosmos is a vast playground of exploration, where the next great discovery may be just a telescope's gaze away.
+2.德拉茲水果市場(Dolac Market)：札格雷布早市，販售各式紀念品、伴手禮與當季水果！
+
+3.札格瑞布主教座堂(Zagrebačka katedrala)：非常雄偉的札格雷布教堂
+
+4.石之門(Stone Gate)：與當地宗教典故有關
+
+5.聖馬爾谷教堂(Crkva sv. Marka)：札格雷布最知名景點與明信片場景，馬賽克拼圖超吸睛
+
+6.洛特爾薩克塔(Kula Lotrščak)：可以遠眺札格雷布街景，非常漂亮

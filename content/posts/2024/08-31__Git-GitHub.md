@@ -1,28 +1,41 @@
 ---
 title: "Git and GitHub Learning Note"
-date: 2023-08-12T14:15:05+07:00
+date: 2024-08-12T14:15:05+07:00
 slug: /git-github/
-description: Delve into the awe-inspiring journey of exploring the universe's expansion and the mysteries it unveils.
-image: images/brent-cox-ydGRmobx5jA-unsplash.jpg
-caption: Photo by Brentcox on Unsplash
+description: The very First Step before becoming a Contributor at Work and Tech World.
+image: images/roman-synkevych-wX2L8L-fGeA-unsplash.jpg
+caption: Photo by Roman Synkevych on Unsplash
 categories:
   - tools
 tags:
   - git
   - github
-  - commits
+  - Version Control System (VCS)
 draft: true
 ---
+![](/images/git_intro_file_status.png)
 
-The universe, with its vastness and complexity, has intrigued humanity for centuries. In recent decades, our understanding of the cosmos has deepened, thanks to groundbreaking discoveries about the expansion of the universe. In this article, we embark on a journey to explore the great beyond, delving into the universe's expansion and the mysteries it unveils.
+## Create Repository
 
-## The Expanding Universe: A Cosmic Revelation
+Keyword: Modified Committed Staged
 
-Keyword: Expanding Universe
+- git init  
+  The very first step to start version control in this folder  
+  .git folder will be created, the key to handle version control
+- Common commands  
+|  Commands  | Description | Note |
+|  ----  | ----  | ----  | 
+| git status | check current status | |
+| git add | add untracked or changes but not staged files in staging area | git add . : add all files |
+| git commit | commit files from staging area to local database  | git commit --amend: modify previous commit  git commit -m "<description for this submit>" |
+| git log | check commit history | git log --oneline --graph:  |
+| git diff | show file differences | |
 
-Long-term Keyword: Insights into Universe's Expansion
+Illustration for git status and git diff in GUI interface SourceTree
+![](/images/git_status.png)
 
-The concept of an expanding universe is one of the most profound discoveries in cosmology. Astronomers have found that galaxies are moving away from each other, implying that the universe is not static but continually stretching. This revelation has transformed our understanding of the cosmos.
+Illustration for git log with extra parameters
+![](/images/git_log.png)
 
 ## Cosmic Expansion and the Big Bang
 

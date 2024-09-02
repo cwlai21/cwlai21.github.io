@@ -2,129 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bon Courage</title>
-    <link>https://cwlai21.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2024 22:11:36 +0700</lastBuildDate>
-    <atom:link href="https://cwlai21.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Sep 2024 09:30:32 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Traduction de la Poésie Chinoise : Un Pont entre Cultures </title>
+      <link>http://localhost:1313/posts/2024/poesie-chinoise/</link>
+      <pubDate>Mon, 02 Sep 2024 09:30:32 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2024/poesie-chinoise/</guid>
+      <description>遊子吟 Le fil de coton dans les mains d&amp;rsquo;une mère aimant,&#xA;Les vêtements portés par le fils errant,&#xA;Avant son départ, Elle les a cousus fermement,</description>
+    </item>
     <item>
       <title>Note for ChiangMai</title>
-      <link>https://cwlai21.github.io/posts/2024/chiangmai/</link>
+      <link>http://localhost:1313/posts/2024/chiangmai/</link>
       <pubDate>Thu, 01 Aug 2024 22:11:36 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2024/chiangmai/</guid>
+      <guid>http://localhost:1313/posts/2024/chiangmai/</guid>
       <description>蘭納王朝&#xA;上座部佛教 vs. 大乘佛教&#xA;泰式哲學 Thia Phrases&#xA;Mâi Pen Rai Sanuk 泰國「北方玫瑰」，藝術建築之寶殿 素帖寺(雙龍寺) Wat Phrathat Doi Suthep&#xA;Locals would say, You haven&amp;rsquo;t really gone to Chiang Mai unless you&amp;rsquo;ve been to Wat Phratat doi suthep.</description>
     </item>
     <item>
       <title>為什麼要學爬蟲？</title>
-      <link>https://cwlai21.github.io/posts/2024/python-web-scraper-intro/</link>
+      <link>http://localhost:1313/posts/2024/python-web-scraper-intro/</link>
       <pubDate>Fri, 12 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2024/python-web-scraper-intro/</guid>
+      <guid>http://localhost:1313/posts/2024/python-web-scraper-intro/</guid>
       <description>如果想要從網路上取得某個資訊，像是這個月各大書店暢銷書的價格比較，除了開啟好幾個分頁，一本一本比價外，有沒有什麼方式可以一鍵完成呢？&#xA;像這樣重複性高，數量眾多，又與網頁相關的問題，就不得不提到「爬蟲」這件事&#xA;什麼是爬蟲 簡單來說就是透過程式將網路伺服器回傳給瀏覽器的資料擷取下來，從中取得使用者有興趣的部分 以這個例子來說就是某本書的在某個電商平台上的價錢&#xA;要怎麼實作呢？ 安裝Python 和 Python package (以Python3為例) Python 官網下載 requests 最常使用到的get這個function 可以從r.text得到我們想要的資訊（針對package的內容以HTTP header為基準做初步的解碼） import requests r = requests.</description>
     </item>
     <item>
       <title>什麼是URL ?</title>
-      <link>https://cwlai21.github.io/posts/vieux/url-definition/</link>
+      <link>http://localhost:1313/posts/vieux/url-definition/</link>
       <pubDate>Wed, 10 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/vieux/url-definition/</guid>
+      <guid>http://localhost:1313/posts/vieux/url-definition/</guid>
       <description>我們所說的網址，專業的說法是URL (Uniform Resource Locator)，用來告知瀏覽器該用什麼方式和去哪一個位置取得網頁內容&#xA;但究竟是怎麼辦到的呢？&#xA;拆解URL https://www.google.com/search?q=weather+of+taipei&#xA;[Protocol]://[Domain Name]/[Path]&#xA;Protocol [https] http or https: s代表著secure，會以加密的方式進行網頁傳輸 ftps: 檔案傳輸協定 mailto: 電子郵件傳輸 smb: 在資料夾開啟共享後，可在windows 和 mac電腦之間進行資料的傳輸 Domain name [www.</description>
     </item>
     <item>
       <title>網站是怎麼構成的？</title>
-      <link>https://cwlai21.github.io/posts/vieux/website-component/</link>
+      <link>http://localhost:1313/posts/vieux/website-component/</link>
       <pubDate>Tue, 09 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/vieux/website-component/</guid>
+      <guid>http://localhost:1313/posts/vieux/website-component/</guid>
       <description>最基本的元素是HTML，可以視作一棟房子的設計圖，從首頁（index.html）出發，透過指定不同的url通往其他的頁面 在每個html檔案都會有以下的基本架構，由tag和content構成，組出這個房間該有的空間規劃&#xA;&amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;#34;zh-Hant-TW&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;title&amp;gt;網頁標題/出現於瀏覽器頁籤&amp;lt;/title&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width, initial-scale=1.0&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;description&amp;#34; content=&amp;#34;提供搜尋引擎關於網頁頁面內的重要資訊&amp;#34;&amp;gt; &amp;lt;link rel=&amp;#34;stylesheet&amp;#34; href=&amp;#34;style.css&amp;#34;&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;header&amp;gt; &amp;lt;nav&amp;gt; &amp;lt;span class=&amp;#34;nav-title&amp;#34;&amp;gt;My Website&amp;lt;/span&amp;gt; &amp;lt;ul class=&amp;#34;nav-link&amp;#34;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Who am I&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;My Work&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Contact me&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt; &amp;lt;/header&amp;gt; &amp;lt;main&amp;gt; &amp;lt;/main&amp;gt; &amp;lt;footer&amp;gt; &amp;lt;/footer&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; 單純的html文檔是如此的蒼白無力 若加上了如同房間裝潢的CSS，自然多了點生機</description>
     </item>
     <item>
       <title>La Culture de l&#39;Alcool à Taïwan </title>
-      <link>https://cwlai21.github.io/posts/2024/alcool-a-taiwan/</link>
+      <link>http://localhost:1313/posts/2024/alcool-a-taiwan/</link>
       <pubDate>Sun, 07 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2024/alcool-a-taiwan/</guid>
+      <guid>http://localhost:1313/posts/2024/alcool-a-taiwan/</guid>
       <description>D’après moi, les Taïwanais consomment moins d’alcool que les Français. La majorité des asiatiques, en particulier cela est vrai pour Taïwanais, souffrent du syndrome du rougissement lié à l’alcool, la prise de quelques verres d’alcool en soirée n’est pas que du plaisir.</description>
     </item>
     <item>
       <title>Quantify Thinking 數值化之鬼</title>
-      <link>https://cwlai21.github.io/posts/2024/quantify_thinking/</link>
+      <link>http://localhost:1313/posts/2024/quantify_thinking/</link>
       <pubDate>Sat, 06 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2024/quantify_thinking/</guid>
+      <guid>http://localhost:1313/posts/2024/quantify_thinking/</guid>
       <description>數值化之鬼，由「數字之鬼」這個形容專注於數據和數值的行為延伸而來。 有鑒於言語描述中偏好以抽象的概念或是不夠精確的詞彙去表達，作者認為將生活中的溝通放進更多數字，來進行邏輯性的思考及判斷，情緒化的論戰和認知差異所造就的溝通成本將會減少。&#xA;重新定義對「數字」的觀感 數字不免俗的會跟求學時代的數學，再者就是銷售額或業績的目標配額扯上關係，都不是太美好的畫面。倘若，我們重新將數字定義成，現在與未來之間差異的具體呈現，藉由把自己的不足具象化，以更客觀更正確的方式接受評價，超越自己的極限&#xA;Your reach should always exceed your grasp!!!&#xA;「數字上的成果」 &amp;ndash;&amp;gt; 「自我」&#xA;如何透過具體的數字展項自我價值?&#xA;Identify the weekness in the team that causes scheduling delays</description>
     </item>
     <item>
       <title>Tera Term Learning Note</title>
-      <link>https://cwlai21.github.io/posts/2024/tera-term-note/</link>
+      <link>http://localhost:1313/posts/2024/tera-term-note/</link>
       <pubDate>Fri, 05 Jul 2024 22:11:36 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2024/tera-term-note/</guid>
+      <guid>http://localhost:1313/posts/2024/tera-term-note/</guid>
       <description>Tera Term and PuTTY are both popular terminal emulation program used for remote access to computers or network devices. Both could support various protocols (Telnet, SSH and serial connections).</description>
     </item>
     <item>
       <title>Anki 使用心得 - 擴充法文單字量</title>
-      <link>https://cwlai21.github.io/posts/2023/anki-usage/</link>
+      <link>http://localhost:1313/posts/2023/anki-usage/</link>
       <pubDate>Tue, 05 Sep 2023 14:15:05 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2023/anki-usage/</guid>
+      <guid>http://localhost:1313/posts/2023/anki-usage/</guid>
       <description>在學習第二外語的路上，不免俗地總是會拿來與第一外語的學習歷程做比較，然而這個下意識的行為反而很容易在初學後段到中級的階段打退堂鼓。而我就是在這樣反覆不斷的提起興致到因為忙碌而又荒廢的循環中，接觸到了anki 這個提升記憶的工具&#xA;初期花了些時間摸索，建立自己的單字庫。但隨著每天將一些零碎的時間運用在anki的使用上，單字量的確有顯著的提升，語言能力的提升也是蠻有感的&#xA;Anki 是什麼 ? Keyword: Forgetting Curve Short-Term Memory Long-Term Memory&#xA;基於艾賓浩斯的遺忘曲線，統計上來說我們在學習後的一個小時後，僅僅只剩下不到一半的記憶量，若將時間拉長到一個月左右，剩下的記憶量僅僅只有20%。在這樣的理論基礎下，我們可以透過適當時間的複習來將短期記憶盡可能地轉化成中長期記憶，在心理學上稱為間隔重複理論，通常以flashcard 的方式達成。而Anki，就是透過使用者在複習時選擇每張字卡的難易程度以及複習次數決定卡片出現的頻率。換句話說，當我們一開始接觸一個新的知識點或新的單字，我們處在最容易忘記的時候，所以這張卡片會出現的比較頻繁來不斷加深我們的印象。隨著我們對這個知識點或單字越來越熟悉後，這張卡片出現的頻率就會降低，除非我們覺得有必要加強記憶強度&#xA;Why Anki ? Keyword: Cross-Platform Synchronization Proactive Learning Hit the ground running</description>
     </item>
     <item>
       <title>Les Systèmes de Retraite à Taïwan</title>
-      <link>https://cwlai21.github.io/posts/2023/systemes-de-retraite-a-taiwan/</link>
+      <link>http://localhost:1313/posts/2023/systemes-de-retraite-a-taiwan/</link>
       <pubDate>Fri, 07 Apr 2023 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2023/systemes-de-retraite-a-taiwan/</guid>
+      <guid>http://localhost:1313/posts/2023/systemes-de-retraite-a-taiwan/</guid>
       <description>Les systèmes de retraite du pays diffèrent selon le secteur, avec des régimes distincts pour les personnes travaillant dans publique, l’État et le secteur privé, ainsi que pour les chômeurs.</description>
     </item>
     <item>
       <title>Covid à Taïwan</title>
-      <link>https://cwlai21.github.io/posts/2023/covid-a-taiwan/</link>
+      <link>http://localhost:1313/posts/2023/covid-a-taiwan/</link>
       <pubDate>Sat, 11 Mar 2023 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2023/covid-a-taiwan/</guid>
+      <guid>http://localhost:1313/posts/2023/covid-a-taiwan/</guid>
       <description>Keyword: subvention changement de la vie&#xA;La pandémie Covid s’est déroulée à partir de 2019 et cependant la phase aiguë commençait un an plus tard à Taiwan.</description>
     </item>
     <item>
       <title>消失的另一半</title>
-      <link>https://cwlai21.github.io/posts/2023/the-vanishing-half/</link>
+      <link>http://localhost:1313/posts/2023/the-vanishing-half/</link>
       <pubDate>Tue, 14 Feb 2023 22:45:37 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2023/the-vanishing-half/</guid>
+      <guid>http://localhost:1313/posts/2023/the-vanishing-half/</guid>
       <description>Outline 情節橫跨近半世紀，從種族政策依然森嚴的1940年代，寫到種族意識逐漸抬頭的1990年代，場景也從虛構的貧窮鄉間小鎮，轉移至富裕的中上階級白人社區。故事圍繞著一對黑人雙胞胎姐妹史黛拉（Stella）和迪莎芮（Desiree）展開，兩人出生於虛構的小鎮馬拉德（Mallard），特別的是，這裡的居民都是膚色較淡的黑人，他們「永遠不會被視為白人，但也拒絕遭受黑鬼的待遇」，因而他們透過近親婚配，確保下一代的膚色如同「經過牛奶均勻稀釋的咖啡」。兩姊妹的父親膚色便是「這麼的淡，淡到在寒冷的早晨，她能翻起他的手臂看見藍色的血管」。不過，即使膚色較淡，依然無法改變身為黑人的事實，姐妹倆的父親仍是遭到白人種族主義者處以私刑而死，寡母只好到富裕的白人家庭幫傭，辛苦拉拔兩姊妹長大。&#xA;童年目睹的悲劇對兩姐妹帶來深刻影響，她們在青少年時期決定逃離小鎮，前往臨近的大都市紐奧良發展，個性迥異的兩人也從此分道揚鑣，踏上不同的人生道路。樂觀勇敢的迪莎芮嫁給了「她能找到膚色最深的男人」，並搬到華盛頓特區，14年後卻又帶著脖子上的瘀傷以及年幼的女兒裘蒂（Jude）回到家鄉。文靜順從的史黛拉則試圖進入美國主流白人社會，嫁給白人老闆，住在富裕社區，表面上過著光鮮亮麗的生活，暗地裡卻必須努力偽裝，以免自己的真實黑人身分穿幫。&#xA;另一條故事線，則描述姐妹倆的下一代，在命運的牽引下相遇了。裘蒂長大成人後，來到洛杉磯念大學，因緣際會在宴會上結識表妹──從小生長在富裕家庭、懷抱著演員夢的肯妮迪（Kennedy），進而拼湊出兩人母親的身世。當時，兩人正深陷在各自的感情關係中，裘蒂的跨性別男友芮斯（Reese），本名泰芮絲（Therese），正在存錢打算進行變性手術，這件事也讓裘蒂回頭思考自己不深不淺的膚色，到底寓意了什麼；肯妮迪則是發現，「愛上一個黑人只會讓她覺得自己愈來愈白」&amp;hellip;&amp;hellip;&#xA;這些角色背後共同的母題是：「身分轉換」究竟會如何影響一個人？&#xA;例如，史黛拉試圖假裝自己是白人，也獲得實質的好處（金錢、地位、人身安全），但也無形間付出許多代價──書名《消失的另一半》不僅指史黛拉失去曾經和她最親近的雙胞胎姐妹迪莎芮，也失去了心中那些令她完整的另一半事物。她無法跟心愛的人傾訴心裡的祕密，甚至反倒助長了當初壓迫她的力量，像是當社區傳出有黑人要搬進來時，史黛拉選擇和白人站在同一陣線，反對黑人遷入。&#xA;Thoughts 當我們不斷的將世俗的價值觀及框架加諸於自己身上時，不屬於本身身分認同的枷鎖就如同演員的戲服般，儘管再怎麼不合身，也只能緊咬牙關的堅持下去&#xA;畢竟華服落下，或是過去的總總一旦穿透了編織好的保護網，這些年的努力就都將付諸流水。潛藏在名片頭銜背後的，或許是個還沒成長茁壯的男孩或女孩，既渴求他人的關注，讚美及認同，又無法自在放下過往瘡疤的現代人</description>
     </item>
     <item>
       <title>Beginners: The Joy and Transformative Power of Lifelong Learning</title>
-      <link>https://cwlai21.github.io/posts/vieux/beginners/</link>
+      <link>http://localhost:1313/posts/vieux/beginners/</link>
       <pubDate>Thu, 08 Sep 2022 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/vieux/beginners/</guid>
+      <guid>http://localhost:1313/posts/vieux/beginners/</guid>
       <description>J’aime vraiment ce livre：“beginners: the joy and transformative power of lifelong learning”. L’auteur se posait des questions, comme：pourquoi les parents encouragent toujours leurs enfants à apprendre les échecs pour être plus intelligents pendant que les parents se retrouvent en jouant sur leur portable.</description>
     </item>
     <item>
       <title>正常人的條件</title>
-      <link>https://cwlai21.github.io/posts/vieux/conditions-to-be-normal/</link>
+      <link>http://localhost:1313/posts/vieux/conditions-to-be-normal/</link>
       <pubDate>Fri, 18 Feb 2022 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/vieux/conditions-to-be-normal/</guid>
+      <guid>http://localhost:1313/posts/vieux/conditions-to-be-normal/</guid>
       <description>在職場如戰場的現今，不乏爾虞我詐的上司為了活的像個人，不惜以下屬為代價，守成自己的地位和現況&#xA;但存在這樣的一個動物園，動物們活的更像是個人，有自由的下班時間，思考的空間和餘裕，共同抵禦外敵的同事情懷，當然最大的賣點就是滿足人類對於各種動物的想像&#xA;會捶打自己胸口，吃著遊客打賞的香蕉以及會攀登帝國大廈的大猩猩，相對於總是在睡覺或是不知所蹤的一般動物園，這個園地吸引了偷情的男女，不順遂的人們，在發洩情慾的同時得到高高在上的尊榮感&#xA;然而壓垮駱駝的最後一根稻草，從來都不是大環境的壓迫，而是集體信念崩塌的那一個瞬間。園內的領袖指標決定離開動物園，踏上剛果追尋自我，看似在小不過的事件，卻引發了核彈級的影響。&#xA;動物們的脫序和失蹤，接連的在動物園上演，園方和飼養員卻一點頭緒也沒有，雪上加霜的是遊客的流失和財物的窘境，都大大的影響了這個動物園生態。&#xA;留下來的人總是最痛苦的，但能突破困境的方式也是在於人。當一點點希望的種子稍稍萌芽，明天又將是璀璨且絢麗的。</description>
     </item>
     <item>
       <title>The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data</title>
-      <link>https://cwlai21.github.io/posts/vieux/the-unicorn-project/</link>
+      <link>http://localhost:1313/posts/vieux/the-unicorn-project/</link>
       <pubDate>Mon, 11 Oct 2021 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/vieux/the-unicorn-project/</guid>
+      <guid>http://localhost:1313/posts/vieux/the-unicorn-project/</guid>
       <description>Un de mes livres préférés est “Le projet Licorne” écrit par Gene Kim. Le personnage principal travaille en tant qu’ingénieur dans une entreprise en déclin.</description>
     </item>
     <item>
       <title>精神病學家</title>
-      <link>https://cwlai21.github.io/posts/vieux/the-alienist/</link>
+      <link>http://localhost:1313/posts/vieux/the-alienist/</link>
       <pubDate>Fri, 11 Oct 2019 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/vieux/the-alienist/</guid>
+      <guid>http://localhost:1313/posts/vieux/the-alienist/</guid>
       <description>書中，作者藉由兩位背景相似的主人翁出發，&#xA;皆有兒時受虐的經歷，卻發展成連續殺人犯和追捕該犯人的精神病醫生，再加上兩位真實存在的人物，時間設定在羅斯福總統在擔任警察局局長的時代和心理學界的泰斗威廉.詹姆斯，所著作的心理學原理更是多次在故事中扮演這串連前後文的工作，讓故事架構增添不少真實性也讓整個故事立體了起來&#xA;由慘絕人寰的殺人案作為開頭，在那個黑幫和警方相互勾結的時代，兇殺案的偵辦往往因受害者身分而異，要辦理連續兇殺案可說是難上加難。但在警察局長排除眾議下，秘密專案小組包含有著心理學專業的精神病醫生，擁有醫學背景和極度講求科學證據的警佐，女性警長秘書和報社記者，就此展開對於兇手的追捕。藉由驗屍，相關人士訪談和案發現場的勘查，僅能推敲出有限的兇手資訊。但面對黑幫勢力，既得利益者以及底層移民的恐慌和暴亂再加上這樣的辦案模式可說是史無前例，成功破案的希望微乎其微。但透過犯人不斷透露的訊息和專案小組的正確側寫，犯人的輪廓慢慢浮現&#xA;儘管犯罪側寫這樣的案例對我們當代可說是個慣例，但作者將時空切換至古早以前的紐約，帶領讀者一步步逼近犯人，其中的過程相當精彩，結尾更是出乎預料。也不禁讓人慶幸我們生存的這個時代，對於連環殺人犯我們並不是束手無策，科學證據和犯罪側寫總是有辦法帶領我們接近真相，哪怕受害人與犯人之間還不相干</description>
     </item>
     <item>
       <title>侍酒之人：那些葡萄酒宅神教我的事</title>
-      <link>https://cwlai21.github.io/posts/vieux/sommelier-lessons/</link>
+      <link>http://localhost:1313/posts/vieux/sommelier-lessons/</link>
       <pubDate>Tue, 19 Feb 2019 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/vieux/sommelier-lessons/</guid>
+      <guid>http://localhost:1313/posts/vieux/sommelier-lessons/</guid>
       <description>旅法的日子裡，一直耳聞波爾多和勃根地等各種紅酒產區，新酒的採收在巴黎也是個令人振奮的日子。只可惜一直對這高單價的發酵葡萄汁沒有涉略，直到這本書開啟了一個契機。作者本身起初也是與葡萄酒產業毫無相關，跟絕大多數的人有著相同的先天條件，卻憑著一股研究的最高境界，在短暫的一年內，從門外漢晉升成通過證照考試的專業侍酒師，更得以在紐約的風土酒吧以酒會友&#xA;書中，作者從餐酒館中最底層的酒窖老鼠開始做起，並不斷的參與各種盲飲會，企圖從外打入這個圈子。在不斷的宿醉中，作者終於有機會認識了一群葡萄酒阿宅，更以科學的方式企圖驗證盲飲這個技術環節，是否是基因上造就出超級感官亦或是後天經過訓練培養而成的。為了縮短感官記憶各類氣味的時間，作者更拜訪了聞香師和以嗅覺及味覺為研究主軸的研討會，嘗試著以系統性的方式訓練盲飲的技巧。&#xA;除此之外，作者對於葡萄酒的品質好壞也有相當程度的質疑。葡萄酒阿宅定義的好壞，科學實驗透過心理因素讓實驗對象無法辨別好壞，都讓作者更迫切想知道是否存在科學可以驗證的好與壞。然而，最終所得到的答案是：只要能讓人一杯接著一杯的喝，就是好酒&#xA;如何擁有跟侍酒師一樣的大腦呢？&#xA;先累積感官記憶。什麼都聞並加上文字，可以是注意到任何氣味都把他說出來，也可以是一邊品嚐一邊尋找模式。&#xA;掌握對結構的認識：用口水判斷酸度，用灼熱感判斷酒精濃度，用乾燥口感判斷單寧，用持續的時間長短判斷尾韻，用濃郁的柔和度判斷甜度，用重量判斷酒體。&#xA;每個人都有能力找到品味葡萄酒裡的靈魂，前提是願意去尋找。感受葡萄酒與釋放感官就從專注開始，還有熱情灌注自己</description>
     </item>
     <item>
       <title>匱乏經濟學 (新版)：為什麼擁有的老是比想要的少？面對匱乏感最強烈的時刻，你該如何做聰明抉擇？</title>
-      <link>https://cwlai21.github.io/posts/vieux/scarcity_why_having_so_little_means_so_much/</link>
+      <link>http://localhost:1313/posts/vieux/scarcity_why_having_so_little_means_so_much/</link>
       <pubDate>Thu, 11 Oct 2018 13:45:49 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/vieux/scarcity_why_having_so_little_means_so_much/</guid>
+      <guid>http://localhost:1313/posts/vieux/scarcity_why_having_so_little_means_so_much/</guid>
       <description>人為何總是在「最後期限」之前才把事情完成？貧困為何讓人難以脫身？企業組織為何陷入四處救火的困境？為錢發愁的人為何較難控制衝動？孤單的人為何不容易交到朋友？這些問題看似不相干，但是在背後，作者歸納出同樣的原因：人不斷處於匱乏之中，導致生產力與消費力不斷受到剝削。&#xA;當匱乏擄獲心智時，會迫使我們的注意力專注以最有效的方式處理手邊的匱乏，但相對的也會讓我們視覺範圍狹隘（隧道視野），忽視其他的所有事情(重要但不急迫的事情，高利息的金錢借貸，忽視未來&amp;hellip;.等)，產生「隧道效應」，這類的負面效果成為「隧道負稅」。在隧道之外的事物難以被看清，容易被低估價值和忽略，竟而使人陷入匱乏陷阱，不斷的挖東牆補西牆，只為了完成當下在隧道視野範圍內的緊急問題，讓原本是可預測的是事件反而變成措手不及的意外。&#xA;匱乏更會直接窄化認知頻寬，與先天能力無關，而是關於能力在當下有多少可供用。就像是開了太多瀏覽器頁面的筆電，上網速度只會逐漸趨近龜速，因為可使用的流量頻寬已被大幅削弱。這邊提及的認知頻寬包含了認知流量和執行力控制，其中兩者最顯著的分別為流動智力和自制力。當認知頻寬被匱乏佔據時，流動智力和自制力都將會降低，會使人變得較難控制衝動。&#xA;匱乏強制我們做權衡取捨思維，未能被滿足的需求俘獲我們的注意力，成為我們的當務之急。就像缺錢的時候會特別注意帳單，節食的時候則會特別注意飲食的攝取，對價格和卡路里的了解有充分的警覺，如同專家一般。然而， 當我們有「充裕」的金錢，時間或是體態 「寬鬆」是必然的副產品，其最大的好處是容忍我們有犯錯的空間並給予我們心理上的餘裕，讓我們在即使有些許的錯誤後能引發較低的後果。&#xA;當我們將匱乏重新考慮進我們所遇到的困境時，簡單的幾種方式可以增加認知頻寬亦或是製造寬鬆。&#xA;把需要警惕的行為轉成一次性的行為: 當處於隧道視野時，正確的事情只要做一次，比一再重複做正確的事情來的容易的多&#xA;此外，再存在著的隧道效應和忽視的世界裡，許多事端仰賴時機。現在的需求總是迫切的但一個月後的需求則顯得抽象不具體。所有你打算將在某個時間點，當情況比較平順時做的一些好的決定，真相其實是當未來變成現在，而情況沒有變得比較平順，你不會去做的決定。因此必須明智的做一些預先排除和連結，盡可能讓未來因為某些事進入隧道效應時，仍可以維持動機。</description>
     </item>
   </channel>

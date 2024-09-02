@@ -6,14 +6,14 @@
     <description>Recent content in Github on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2023 14:15:05 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 14:15:05 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git and GitHub Learning Note</title>
       <link>http://localhost:1313/posts/2024/git-github/</link>
-      <pubDate>Sat, 12 Aug 2023 14:15:05 +0700</pubDate>
+      <pubDate>Mon, 12 Aug 2024 14:15:05 +0700</pubDate>
       <guid>http://localhost:1313/posts/2024/git-github/</guid>
-      <description>The universe, with its vastness and complexity, has intrigued humanity for centuries. In recent decades, our understanding of the cosmos has deepened, thanks to groundbreaking discoveries about the expansion of the universe.</description>
+      <description>Create Repository Keyword: Modified Committed Staged&#xA;git init&#xA;The very first step to start version control in this folder</description>
     </item>
   </channel>
 </rss>

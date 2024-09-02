@@ -2,243 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cwlai21.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-02T09:30:32+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-09-02T09:30:32+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/compr%C3%A9hension-%C3%A9crite/</loc>
+    <lastmod>2024-09-02T09:30:32+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/french/</loc>
+    <lastmod>2024-09-02T09:30:32+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/poesie-chinoise/</loc>
+    <lastmod>2024-09-02T09:30:32+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/language-exchange/</loc>
+    <lastmod>2024-09-02T09:30:32+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-09-02T09:30:32+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-09-02T09:30:32+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/categories/taiwan/</loc>
+    <lastmod>2024-09-02T09:30:32+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/chiangmai/</loc>
     <lastmod>2024-08-01T22:11:36+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/categories/</loc>
+    <loc>http://localhost:1313/tags/foodie/</loc>
     <lastmod>2024-08-01T22:11:36+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/chiangmai/</loc>
+    <loc>http://localhost:1313/posts/2024/chiangmai/</loc>
     <lastmod>2024-08-01T22:11:36+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/foodie/</loc>
+    <loc>http://localhost:1313/categories/travel/</loc>
     <lastmod>2024-08-01T22:11:36+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/2024/chiangmai/</loc>
-    <lastmod>2024-08-01T22:11:36+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwlai21.github.io/posts/</loc>
-    <lastmod>2024-08-01T22:11:36+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwlai21.github.io/tags/</loc>
-    <lastmod>2024-08-01T22:11:36+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwlai21.github.io/categories/travel/</loc>
-    <lastmod>2024-08-01T22:11:36+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwlai21.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-07-14T20:37:29+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/feature/</loc>
+    <loc>http://localhost:1313/tags/feature/</loc>
     <lastmod>2024-07-12T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2024-07-12T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/categories/tools/</loc>
+    <loc>http://localhost:1313/categories/tools/</loc>
     <lastmod>2024-07-12T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/2024/python-web-scraper-intro/</loc>
+    <loc>http://localhost:1313/posts/2024/python-web-scraper-intro/</loc>
     <lastmod>2024-07-12T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/%E7%88%AC%E8%9F%B2/</loc>
+    <loc>http://localhost:1313/tags/%E7%88%AC%E8%9F%B2/</loc>
     <lastmod>2024-07-12T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/categories/website/</loc>
+    <loc>http://localhost:1313/categories/website/</loc>
     <lastmod>2024-07-10T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/vieux/url-definition/</loc>
+    <loc>http://localhost:1313/posts/vieux/url-definition/</loc>
     <lastmod>2024-07-10T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/%E4%BC%BA%E6%9C%8D%E5%99%A8/</loc>
+    <loc>http://localhost:1313/tags/%E4%BC%BA%E6%9C%8D%E5%99%A8/</loc>
     <lastmod>2024-07-10T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/%E7%80%8F%E8%A6%BD%E5%99%A8/</loc>
+    <loc>http://localhost:1313/tags/%E7%80%8F%E8%A6%BD%E5%99%A8/</loc>
     <lastmod>2024-07-10T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/html/</loc>
+    <loc>http://localhost:1313/tags/html/</loc>
     <lastmod>2024-07-09T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/vieux/website-component/</loc>
+    <loc>http://localhost:1313/posts/vieux/website-component/</loc>
     <lastmod>2024-07-09T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/compr%C3%A9hension-%C3%A9crite/</loc>
+    <loc>http://localhost:1313/posts/2024/alcool-a-taiwan/</loc>
     <lastmod>2024-07-07T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/french/</loc>
-    <lastmod>2024-07-07T09:30:32+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwlai21.github.io/posts/2024/alcool-a-taiwan/</loc>
-    <lastmod>2024-07-07T09:30:32+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwlai21.github.io/tags/language-exchange/</loc>
-    <lastmod>2024-07-07T09:30:32+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwlai21.github.io/categories/taiwan/</loc>
-    <lastmod>2024-07-07T09:30:32+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwlai21.github.io/categories/books/</loc>
+    <loc>http://localhost:1313/categories/books/</loc>
     <lastmod>2024-07-06T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/kpi/</loc>
+    <loc>http://localhost:1313/tags/kpi/</loc>
     <lastmod>2024-07-06T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/quantify/</loc>
+    <loc>http://localhost:1313/tags/quantify/</loc>
     <lastmod>2024-07-06T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/2024/quantify_thinking/</loc>
+    <loc>http://localhost:1313/posts/2024/quantify_thinking/</loc>
     <lastmod>2024-07-06T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/self-growth/</loc>
+    <loc>http://localhost:1313/tags/self-growth/</loc>
     <lastmod>2024-07-06T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/macro/</loc>
+    <loc>http://localhost:1313/tags/macro/</loc>
     <lastmod>2024-07-05T22:11:36+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/scripts/</loc>
+    <loc>http://localhost:1313/tags/scripts/</loc>
     <lastmod>2024-07-05T22:11:36+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/2024/tera-term-note/</loc>
+    <loc>http://localhost:1313/posts/2024/tera-term-note/</loc>
     <lastmod>2024-07-05T22:11:36+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/ttl/</loc>
+    <loc>http://localhost:1313/tags/ttl/</loc>
     <lastmod>2024-07-05T22:11:36+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/anki/</loc>
+    <loc>http://localhost:1313/tags/anki/</loc>
     <lastmod>2023-09-05T14:15:05+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/2023/anki-usage/</loc>
+    <loc>http://localhost:1313/posts/2023/anki-usage/</loc>
     <lastmod>2023-09-05T14:15:05+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/self-learned/</loc>
+    <loc>http://localhost:1313/tags/self-learned/</loc>
     <lastmod>2023-09-05T14:15:05+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/vocabulary/</loc>
+    <loc>http://localhost:1313/tags/vocabulary/</loc>
     <lastmod>2023-09-05T14:15:05+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/2023/systemes-de-retraite-a-taiwan/</loc>
+    <loc>http://localhost:1313/posts/2023/systemes-de-retraite-a-taiwan/</loc>
     <lastmod>2023-04-07T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/2023/covid-a-taiwan/</loc>
+    <loc>http://localhost:1313/posts/2023/covid-a-taiwan/</loc>
     <lastmod>2023-03-11T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/african-american-issues/</loc>
+    <loc>http://localhost:1313/tags/african-american-issues/</loc>
     <lastmod>2023-02-14T22:45:37+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/self-identity/</loc>
+    <loc>http://localhost:1313/tags/self-identity/</loc>
     <lastmod>2023-02-14T22:45:37+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/2023/the-vanishing-half/</loc>
+    <loc>http://localhost:1313/posts/2023/the-vanishing-half/</loc>
     <lastmod>2023-02-14T22:45:37+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/vieux/beginners/</loc>
+    <loc>http://localhost:1313/posts/vieux/beginners/</loc>
     <lastmod>2022-09-08T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/transformation/</loc>
+    <loc>http://localhost:1313/tags/transformation/</loc>
     <lastmod>2022-09-08T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/fiction/</loc>
+    <loc>http://localhost:1313/tags/fiction/</loc>
     <lastmod>2022-02-18T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/work/</loc>
+    <loc>http://localhost:1313/tags/work/</loc>
     <lastmod>2022-02-18T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/vieux/conditions-to-be-normal/</loc>
+    <loc>http://localhost:1313/posts/vieux/conditions-to-be-normal/</loc>
     <lastmod>2022-02-18T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/business/</loc>
+    <loc>http://localhost:1313/tags/business/</loc>
     <lastmod>2021-10-11T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/vieux/the-unicorn-project/</loc>
+    <loc>http://localhost:1313/posts/vieux/the-unicorn-project/</loc>
     <lastmod>2021-10-11T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/detective-fiction/</loc>
+    <loc>http://localhost:1313/tags/detective-fiction/</loc>
     <lastmod>2019-10-11T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/vieux/the-alienist/</loc>
+    <loc>http://localhost:1313/posts/vieux/the-alienist/</loc>
     <lastmod>2019-10-11T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/class/</loc>
+    <loc>http://localhost:1313/tags/class/</loc>
     <lastmod>2019-02-19T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/life-style/</loc>
+    <loc>http://localhost:1313/tags/life-style/</loc>
     <lastmod>2019-02-19T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/wine-tasting/</loc>
+    <loc>http://localhost:1313/tags/wine-tasting/</loc>
     <lastmod>2019-02-19T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/vieux/sommelier-lessons/</loc>
+    <loc>http://localhost:1313/posts/vieux/sommelier-lessons/</loc>
     <lastmod>2019-02-19T09:30:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/attention-capturing/</loc>
+    <loc>http://localhost:1313/tags/attention-capturing/</loc>
     <lastmod>2018-10-11T13:45:49+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/economics/</loc>
+    <loc>http://localhost:1313/tags/economics/</loc>
     <lastmod>2018-10-11T13:45:49+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/tags/scarcity/</loc>
+    <loc>http://localhost:1313/tags/scarcity/</loc>
     <lastmod>2018-10-11T13:45:49+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwlai21.github.io/posts/vieux/scarcity_why_having_so_little_means_so_much/</loc>
+    <loc>http://localhost:1313/posts/vieux/scarcity_why_having_so_little_means_so_much/</loc>
     <lastmod>2018-10-11T13:45:49+07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

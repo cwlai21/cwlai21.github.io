@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on Bon Courage</title>
-    <link>https://cwlai21.github.io/categories/travel/</link>
+    <link>http://localhost:1313/categories/travel/</link>
     <description>Recent content in Travel on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2024 22:11:36 +0700</lastBuildDate>
-    <atom:link href="https://cwlai21.github.io/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Note for ChiangMai</title>
-      <link>https://cwlai21.github.io/posts/2024/chiangmai/</link>
+      <link>http://localhost:1313/posts/2024/chiangmai/</link>
       <pubDate>Thu, 01 Aug 2024 22:11:36 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2024/chiangmai/</guid>
+      <guid>http://localhost:1313/posts/2024/chiangmai/</guid>
       <description>蘭納王朝&#xA;上座部佛教 vs. 大乘佛教&#xA;泰式哲學 Thia Phrases&#xA;Mâi Pen Rai Sanuk 泰國「北方玫瑰」，藝術建築之寶殿 素帖寺(雙龍寺) Wat Phrathat Doi Suthep&#xA;Locals would say, You haven&amp;rsquo;t really gone to Chiang Mai unless you&amp;rsquo;ve been to Wat Phratat doi suthep.</description>
     </item>
   </channel>
