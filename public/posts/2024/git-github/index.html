@@ -122,7 +122,7 @@
           </li>
 
           <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
-            3 min read
+            2 min read
           </li>
 
         </ul>
@@ -146,6 +146,7 @@
 <li>git init<br>
 The very first step to start version control in this folder<br>
 .git folder will be created, the key to handle version control</li>
+<li>git clone &lt;repoitory_url&gt;</li>
 <li>Common commands
 <table>
 <thead>
@@ -168,48 +169,98 @@ The very first step to start version control in this folder<br>
 </tr>
 <tr>
 <td>git commit</td>
-<td>commit files from staging area to local database</td>
-<td>git commit &ndash;amend: modify previous commit  git commit -m &ldquo;<description for this submit>&rdquo;</td>
+<td>commit files from staging area to Repository (local database)</td>
+<td>git commit &ndash;amend: modify previous commit  git commit -m &ldquo;description for this submit&rdquo;</td>
 </tr>
 <tr>
 <td>git log</td>
 <td>check commit history</td>
-<td>git log &ndash;oneline &ndash;graph:</td>
+<td>git log &ndash;oneline &ndash;graph</td>
 </tr>
 <tr>
 <td>git diff</td>
 <td>show file differences</td>
 <td></td>
 </tr>
+<tr>
+<td>git relog</td>
+<td>show commits</td>
+<td>git log -g : display the same result</td>
+</tr>
 </tbody>
 </table>
 </li>
 </ul>
+<h3 id="git-reset-goto">git reset (goto)</h3>
+<table>
+<thead>
+<tr>
+<th>&ndash;soft</th>
+<th>&ndash;mixed</th>
+<th>&ndash;hard</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>seems to only move the head position, nothing changed</td>
+<td>Remove changes in staging area but keep those in working directory(default setting)</td>
+<td>both working directory and staging area are removed</td>
+</tr>
+<tr>
+<td>files in commit back to previous commit</td>
+<td>files in commit back to previous commit and so does files in staging area</td>
+<td>discard all files in commit and back to previous commit</td>
+</tr>
+</tbody>
+</table>
 <p>Illustration for git status and git diff in GUI interface SourceTree
 <img src="/images/git_status.png" alt=""></p>
 <p>Illustration for git log with extra parameters
 <img src="/images/git_log.png" alt=""></p>
-<h2 id="cosmic-expansion-and-the-big-bang">Cosmic Expansion and the Big Bang</h2>
-<p>Keyword: Cosmic Expansion and the Big Bang</p>
-<p>Long-term Keyword: The Birth of the Universe</p>
-<p>The idea of cosmic expansion is closely linked to the Big Bang theory. According to this theory, the universe originated from an incredibly dense and hot state nearly 13.8 billion years ago. As the universe expanded, it cooled, leading to the formation of galaxies, stars, and all the structures we see today.</p>
-<h2 id="measuring-the-universes-growth">Measuring the Universe&rsquo;s Growth</h2>
-<p>Keyword: Measuring the Universe&rsquo;s Growth</p>
-<p>Long-term Keyword: Tools for Measuring Cosmic Expansion</p>
-<p>Astronomers employ various methods to measure the rate of the universe&rsquo;s expansion. One key tool is the Hubble constant, named after Edwin Hubble. This constant quantifies the rate at which galaxies are receding from us and provides crucial insights into the universe&rsquo;s age and future.</p>
-<h2 id="dark-energy-the-cosmic-mystery">Dark Energy: The Cosmic Mystery</h2>
-<p>Keyword: Dark Energy</p>
-<p>Long-term Keyword: Unraveling the Enigma of Dark Energy</p>
-<p>Dark energy is an enigmatic force that appears to be responsible for the universe&rsquo;s accelerated expansion. While it remains mysterious, its presence challenges our understanding of the cosmos. Researchers are actively investigating dark energy&rsquo;s properties and its role in shaping the fate of the universe.</p>
-<h2 id="cosmic-fate-expanding-forever">Cosmic Fate: Expanding Forever?</h2>
-<p>Keyword: Cosmic Fate</p>
-<p>Long-term Keyword: The Future of an Expanding Universe</p>
-<p>The ultimate fate of the expanding universe is a subject of great intrigue. Depending on the balance of cosmic forces, it may continue to expand indefinitely or eventually slow down and contract. Understanding this fate has profound implications for the destiny of the cosmos.</p>
-<h2 id="conclusion-journey-into-the-unknown">Conclusion: Journey into the Unknown</h2>
-<p>Keyword: Journey into the Unknown</p>
-<p>Long-term Keyword: The Quest for Cosmic Understanding</p>
-<p>Exploring the expanding universe is a journey into the unknown, where each discovery reveals new layers of cosmic complexity. As we continue to study the universe&rsquo;s expansion, we gain insights into its birth, evolution, and ultimate destiny. The mysteries of the great beyond continue to beckon humanity, inspiring scientific exploration and philosophical contemplation.</p>
-<p>Whether you&rsquo;re a cosmologist probing the fundamental nature of the cosmos or simply someone gazing at the night sky with wonder, the expanding universe invites us to be part of a grand cosmic adventure. It reminds us that the great beyond is a realm of endless discovery, where the universe&rsquo;s secrets are waiting to be unveiled.</p>
+<h3 id="git-checkout">git checkout</h3>
+<ul>
+<li>
+<p>Create a new branch and switch branch</p>
+<ul>
+<li>git checkout -b &lt;branch_name&gt;
+<ul>
+<li>git branch &lt;branch_name&gt; + git checkout &lt;branch_name&gt;</li>
+</ul>
+</li>
+<li>git rebase &lt;master_branch&gt;
+<ul>
+<li>diff the code changes and store in temporary files</li>
+</ul>
+</li>
+<li>git checkout &lt;master_branch&gt;
+<ul>
+<li>switch back to main branch</li>
+</ul>
+</li>
+<li>git merge &lt;branch_name&gt;
+<ul>
+<li>merge the diff</li>
+</ul>
+</li>
+<li>git branch -d &lt;branch_name&gt;
+<ul>
+<li>delete branch after commits are merged back to main branch</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Discard changes in working directory</p>
+<ul>
+<li>git checkout - - &lt;file_name&gt;</li>
+<li>git reset HEAD &lt;file_name&gt;
+<ul>
+<li>restore &ldquo;status&rdquo; (commited, staged, untracked) of the file not content</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 
 
     <ul id="taxonomy" class="not-prose flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
@@ -311,6 +362,14 @@ The very first step to start version control in this folder<br>
 		<h2 class="font-bold text-xl mb-8">Recent Post</h2>
 
 		<article class="relative group flex flex-row">
+	<a class="insert-link" href="http://localhost:1313/posts/2024/poesie-chinoise/"></a>
+	<figure class="basis-1/3 aspect-square overflow-hidden rounded-2xl bg-zinc-100"><img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="http://localhost:1313/images/istockphoto-518701575-1024x1024_hu90aaeaaff54c0e9d646f0d7e78500950_61214_250x250_crop_q75_box_center.jpg" alt="La Traduction de la Poésie Chinoise : Un Pont entre Cultures " width="250" height="250">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">La Traduction de la Poésie Chinoise : Un Pont entre Cultures </h3>
+	</div>
+</article><article class="relative group flex flex-row">
 	<a class="insert-link" href="http://localhost:1313/posts/2024/git-github/"></a>
 	<figure class="basis-1/3 aspect-square overflow-hidden rounded-2xl bg-zinc-100"><img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="http://localhost:1313/images/roman-synkevych-wX2L8L-fGeA-unsplash_hu3d03a01dcc18bc5be0e67db3d8d209a6_33658_250x250_crop_q75_box_center.jpg" alt="Git and GitHub Learning Note" width="250" height="250">
 
@@ -325,14 +384,6 @@ The very first step to start version control in this folder<br>
 	</figure>
 	<div class="basis-2/3 self-center ml-4">
 		<h3 class="font-bold group-hover:underline decoration-auto">Note for ChiangMai</h3>
-	</div>
-</article><article class="relative group flex flex-row">
-	<a class="insert-link" href="http://localhost:1313/posts/2024/python-web-scraper-intro/"></a>
-	<figure class="basis-1/3 aspect-square overflow-hidden rounded-2xl bg-zinc-100"><img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="http://localhost:1313/images/chris-ried-ieic5Tq8YMk-unsplash_hu3d03a01dcc18bc5be0e67db3d8d209a6_57751_250x250_crop_q75_box_center.jpg" alt="為什麼要學爬蟲？" width="250" height="250">
-
-	</figure>
-	<div class="basis-2/3 self-center ml-4">
-		<h3 class="font-bold group-hover:underline decoration-auto">為什麼要學爬蟲？</h3>
 	</div>
 </article>
 		

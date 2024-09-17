@@ -39,13 +39,21 @@ Long-term Keyword: Exploring Exoplanets for Signs of Life
 
 One of the most captivating aspects of exoplanet research is the quest for habitable worlds. Astronomers focus on identifying exoplanets located in the "Goldilocks zone" of their stars, where conditions may be just right for liquid water—a key ingredient for life as we know it. These discoveries offer hope in the search for extraterrestrial life.
 
-## Technological Marvels and Future Missions
+## Split
 
-Keyword: Technological Marvels
+Keyword: Resto Site-seeing
 
-Long-term Keyword: Upcoming Space Missions for Exoplanet Discovery
+景點
+- 赫瓦爾島堡壘Hvar Fortica  
 
-The future of exoplanet research is incredibly promising. Technologies like NASA's James Webb Space Telescope and ESA's PLATO mission are poised to revolutionize our understanding of exoplanets. These missions will allow us to characterize exoplanet atmospheres and study their potential habitability in unprecedented detail.
+
+餐廳推薦  
+- Fife Addr: Trumbićeva obala 11, 21000, Split, 克羅埃西亞  
+- Spar Addr: Šubićeva 5 7, 21000, Split, 克羅埃西亞  
+位於戴克里先宮的超市，裡面有販賣熟食  
+- NONE Split Street Food Addr: Bosanska ul. 4, 21000, Split, 克羅埃西亞  
+- Zlatna ribica Addr: Ul. Kraj Svete Marije 8, 21000, Split, 克羅埃西亞 (cash only)
+
 
 ## Zagreb
 

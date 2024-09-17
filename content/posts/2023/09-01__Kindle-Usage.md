@@ -13,7 +13,7 @@ tags:
   - eReader
   - feature
   - self-growth
-draft: true
+draft: false
 ---
 
 一向偏好紙本書籍閱讀的我，在因緣際會下，在八月入手了Kindle Oasis 閱讀器後，一腳踏進入電子書的新大門。截至目前，在kindle unlimited 第一個月免費試用和不小心續訂了第二個月的強大誘因下，體驗了英法書籍，法文BD (Bande Desinée) 以及中文漫畫的閱讀，整體的使用者體驗相當不錯。
@@ -30,7 +30,9 @@ Keyword: Pubu Kobo
 
 -  下載Adobe DRM (官網下載) -  > 建立Adobe ID - >  授權電腦
 
--  下載 pdf epub drm removal，免費版友移除上限，可自行搜尋破解版
+-  下載 pdf epub drm removal，免費版有移除上限，可自行搜尋破解版
+
+-  下載 Calibre 搭配 DeDRM Plugins (較推薦)
 
 -  設定  Approved Personal Document Email List (許可的個人文件電子郵件清單)，可以透過 email 夾帶附件的方式將檔案send to kindle
 
