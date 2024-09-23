@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feature on Bon Courage</title>
-    <link>https://cwlai21.github.io/tags/feature/</link>
+    <link>http://localhost:1313/tags/feature/</link>
     <description>Recent content in Feature on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jul 2024 09:30:32 +0700</lastBuildDate>
-    <atom:link href="https://cwlai21.github.io/tags/feature/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/feature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>為什麼要學爬蟲？</title>
-      <link>https://cwlai21.github.io/posts/2024/python-web-scraper-intro/</link>
+      <link>http://localhost:1313/posts/2024/python-web-scraper-intro/</link>
       <pubDate>Fri, 12 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2024/python-web-scraper-intro/</guid>
+      <guid>http://localhost:1313/posts/2024/python-web-scraper-intro/</guid>
       <description>如果想要從網路上取得某個資訊，像是這個月各大書店暢銷書的價格比較，除了開啟好幾個分頁，一本一本比價外，有沒有什麼方式可以一鍵完成呢？&#xA;像這樣重複性高，數量眾多，又與網頁相關的問題，就不得不提到「爬蟲」這件事&#xA;什麼是爬蟲 簡單來說就是透過程式將網路伺服器回傳給瀏覽器的資料擷取下來，從中取得使用者有興趣的部分 以這個例子來說就是某本書的在某個電商平台上的價錢&#xA;要怎麼實作呢？ 安裝Python 和 Python package (以Python3為例) Python 官網下載 requests 最常使用到的get這個function 可以從r.text得到我們想要的資訊（針對package的內容以HTTP header為基準做初步的解碼） import requests r = requests.</description>
     </item>
     <item>
       <title>Tera Term Learning Note</title>
-      <link>https://cwlai21.github.io/posts/2024/tera-term-note/</link>
+      <link>http://localhost:1313/posts/2024/tera-term-note/</link>
       <pubDate>Fri, 05 Jul 2024 22:11:36 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2024/tera-term-note/</guid>
+      <guid>http://localhost:1313/posts/2024/tera-term-note/</guid>
       <description>Tera Term and PuTTY are both popular terminal emulation program used for remote access to computers or network devices. Both could support various protocols (Telnet, SSH and serial connections).</description>
     </item>
     <item>
       <title>Kindle 使用心得</title>
-      <link>https://cwlai21.github.io/posts/2023/kindle-usage/</link>
+      <link>http://localhost:1313/posts/2023/kindle-usage/</link>
       <pubDate>Fri, 01 Sep 2023 14:15:05 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2023/kindle-usage/</guid>
+      <guid>http://localhost:1313/posts/2023/kindle-usage/</guid>
       <description>一向偏好紙本書籍閱讀的我，在因緣際會下，在八月入手了Kindle Oasis 閱讀器後，一腳踏進入電子書的新大門。截至目前，在kindle unlimited 第一個月免費試用和不小心續訂了第二個月的強大誘因下，體驗了英法書籍，法文BD (Bande Desinée) 以及中文漫畫的閱讀，整體的使用者體驗相當不錯。&#xA;一來，長時間使用下不會造成眼睛過度的疲勞及乾澀，二來，機器本身相當輕巧，耗電量也不高，隨身攜帶的負擔不會太過沉重，但又可以隨時沉靜在書海中。考量家中不斷減少的閒置書櫃空間和各種推陳出新的有趣新書，這個剁手行為還是相當划算。&#xA;中文電子書 Keyword: Pubu Kobo&#xA;透過PuBu以及樂天Kobo電子書城補足Amazon ebook 中文書籍稀缺的缺口&#xA;前置動作 (one-time job)&#xA;下載Adobe DRM (官網下載) - &amp;gt; 建立Adobe ID - &amp;gt; 授權電腦</description>
     </item>
   </channel>

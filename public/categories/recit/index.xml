@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recit on Bon Courage</title>
+    <link>http://localhost:1313/categories/recit/</link>
+    <description>Recent content in Recit on Bon Courage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Sep 2024 09:30:32 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/recit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résumé de Three Tears in Borneo</title>
+      <link>http://localhost:1313/posts/2024/r%C3%A9sum%C3%A9-en-fran%C3%A7ais/</link>
+      <pubDate>Sun, 22 Sep 2024 09:30:32 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2024/r%C3%A9sum%C3%A9-en-fran%C3%A7ais/</guid>
+      <description>聽海湧 “Three tears in Borneo”, “Trois Larmes en Bornéo”, est une mini-série taïwanaise de 5 épisodes, qui traite d’un procès dans le Tribunal pénal international pour crime contre l’humanité concernant de massacre de 42 personnes dans un camp de prisonnier japonais en Bornéo pendant la Seconde Guerre mondial.</description>
+    </item>
+    <item>
+      <title>Résumé de Confessions</title>
+      <link>http://localhost:1313/posts/2024/r%C3%A9sum%C3%A9-en-fran%C3%A7ais/</link>
+      <pubDate>Mon, 09 Sep 2024 09:30:32 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2024/r%C3%A9sum%C3%A9-en-fran%C3%A7ais/</guid>
+      <description>告白 L’histoire de ce roman traite de la vengeance après la mort de la fille d’une enseignante de collège. En découvrant qu’il s’agit d’un meurtre commis par ses élèves qui l&amp;rsquo;avaient maquillé en accident, elle a décidé de leur enseigner une leçon inoubliable parce que le judge a prononcé à une sanction avec clémence malgré la gravité du crime.</description>
+    </item>
+  </channel>
+</rss>

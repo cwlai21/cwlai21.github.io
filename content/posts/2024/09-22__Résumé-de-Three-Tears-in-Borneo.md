@@ -1,0 +1,19 @@
+---
+title: "Résumé de Three Tears in Borneo"
+date: 2024-09-22T09:30:32+07:00
+slug: /three-tears-in-borneo/
+description: Résumé d'une mini série taïwanaise en 2024.
+image: images/IMG_0232.jpg
+categories:
+  - résumé en français
+tags:
+  - language exchange
+  - French
+  - compréhension écrite
+draft: false
+---
+
+## 聽海湧
+“Three tears in Borneo”, “Trois Larmes en Bornéo”, est une mini-série taïwanaise de 5 épisodes, qui traite d’un procès dans le Tribunal pénal international pour crime contre l’humanité concernant de massacre de 42 personnes dans un camp de prisonnier japonais en Bornéo pendant la Seconde Guerre mondial.   
+Une partie intégrante de l'intrigue est une adaptation d’une histoire réelle, dans laquelle un soldat auxiliaire taïwanais, chargé de la gestion des prisonniers dans le camp, aide à la femme et l’enfant d'un consul chinois durant leur séjour. Il est identifié comme le coupable du massacre bien qu’il ait obéi aux ordres de son supérieur japonais. Durant le procès, la stratégie des avocats japonais est passive et donne l’impression que les soldats recrutés dans la colonie ne sont pas considérés comme japonais et ne bénéficient pas du même effort pour les défendre. D’un autre côté, lorsque le régime de Chiang Kai-Shek s’est replié à Taïwan après la fin de la Second Guerre mondiale, les Taïwanais auraient dû être traités comme faisant partie des vainqueurs plutôt que des perdants.   
+Le consul a refusé de la mettre en vigueur dans ce procès à cause de la perte de sa femme et de son enfant. Heureusement, finalement, le général japonais a admis qu’il était responsable de l’ordre du massacre et non le soldat auxiliaire taïwanais, ce qui a commuer sa condamnation de la peine de mort par pendaison en 10 ans d’emprisonnement. 

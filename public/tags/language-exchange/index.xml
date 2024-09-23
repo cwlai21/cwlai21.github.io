@@ -2,38 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Language Exchange on Bon Courage</title>
-    <link>https://cwlai21.github.io/tags/language-exchange/</link>
+    <link>http://localhost:1313/tags/language-exchange/</link>
     <description>Recent content in Language Exchange on Bon Courage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Sep 2024 09:30:32 +0700</lastBuildDate>
-    <atom:link href="https://cwlai21.github.io/tags/language-exchange/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Sep 2024 09:30:32 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/language-exchange/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résumé de Three Tears in Borneo</title>
+      <link>http://localhost:1313/posts/2024/r%C3%A9sum%C3%A9-en-fran%C3%A7ais/</link>
+      <pubDate>Sun, 22 Sep 2024 09:30:32 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2024/r%C3%A9sum%C3%A9-en-fran%C3%A7ais/</guid>
+      <description>聽海湧 “Three tears in Borneo”, “Trois Larmes en Bornéo”, est une mini-série taïwanaise de 5 épisodes, qui traite d’un procès dans le Tribunal pénal international pour crime contre l’humanité concernant de massacre de 42 personnes dans un camp de prisonnier japonais en Bornéo pendant la Seconde Guerre mondial.</description>
+    </item>
+    <item>
+      <title>Résumé de Confessions</title>
+      <link>http://localhost:1313/posts/2024/r%C3%A9sum%C3%A9-en-fran%C3%A7ais/</link>
+      <pubDate>Mon, 09 Sep 2024 09:30:32 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2024/r%C3%A9sum%C3%A9-en-fran%C3%A7ais/</guid>
+      <description>告白 L’histoire de ce roman traite de la vengeance après la mort de la fille d’une enseignante de collège. En découvrant qu’il s’agit d’un meurtre commis par ses élèves qui l&amp;rsquo;avaient maquillé en accident, elle a décidé de leur enseigner une leçon inoubliable parce que le judge a prononcé à une sanction avec clémence malgré la gravité du crime.</description>
+    </item>
     <item>
       <title>La Traduction de la Poésie Chinoise : Un Pont entre Cultures </title>
-      <link>https://cwlai21.github.io/posts/2024/poesie-chinoise/</link>
+      <link>http://localhost:1313/posts/2024/poesie-chinoise/</link>
       <pubDate>Mon, 02 Sep 2024 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2024/poesie-chinoise/</guid>
+      <guid>http://localhost:1313/posts/2024/poesie-chinoise/</guid>
       <description>遊子吟 Le fil de coton dans les mains d&amp;rsquo;une mère aimant,&#xA;Les vêtements portés par le fils errant,&#xA;Avant son départ, Elle les a cousus fermement,</description>
     </item>
     <item>
       <title>La Culture de l&#39;Alcool à Taïwan </title>
-      <link>https://cwlai21.github.io/posts/2024/alcool-a-taiwan/</link>
+      <link>http://localhost:1313/posts/2024/alcool-a-taiwan/</link>
       <pubDate>Sun, 07 Jul 2024 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2024/alcool-a-taiwan/</guid>
+      <guid>http://localhost:1313/posts/2024/alcool-a-taiwan/</guid>
       <description>D’après moi, les Taïwanais consomment moins d’alcool que les Français. La majorité des asiatiques, en particulier cela est vrai pour Taïwanais, souffrent du syndrome du rougissement lié à l’alcool, la prise de quelques verres d’alcool en soirée n’est pas que du plaisir.</description>
     </item>
     <item>
       <title>Les Systèmes de Retraite à Taïwan</title>
-      <link>https://cwlai21.github.io/posts/2023/systemes-de-retraite-a-taiwan/</link>
+      <link>http://localhost:1313/posts/2023/systemes-de-retraite-a-taiwan/</link>
       <pubDate>Fri, 07 Apr 2023 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2023/systemes-de-retraite-a-taiwan/</guid>
+      <guid>http://localhost:1313/posts/2023/systemes-de-retraite-a-taiwan/</guid>
       <description>Les systèmes de retraite du pays diffèrent selon le secteur, avec des régimes distincts pour les personnes travaillant dans publique, l’État et le secteur privé, ainsi que pour les chômeurs.</description>
     </item>
     <item>
       <title>Covid à Taïwan</title>
-      <link>https://cwlai21.github.io/posts/2023/covid-a-taiwan/</link>
+      <link>http://localhost:1313/posts/2023/covid-a-taiwan/</link>
       <pubDate>Sat, 11 Mar 2023 09:30:32 +0700</pubDate>
-      <guid>https://cwlai21.github.io/posts/2023/covid-a-taiwan/</guid>
+      <guid>http://localhost:1313/posts/2023/covid-a-taiwan/</guid>
       <description>Keyword: subvention changement de la vie&#xA;La pandémie Covid s’est déroulée à partir de 2019 et cependant la phase aiguë commençait un an plus tard à Taiwan.</description>
     </item>
   </channel>
