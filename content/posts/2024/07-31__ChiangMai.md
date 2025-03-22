@@ -1,8 +1,8 @@
 ---
-title: "Note for ChiangMai"
+title: "Trip to ChiangMai"
 date: 2024-08-01T22:11:36+07:00
 slug: /chiangmai/
-description: Exploring the mysteries of black holes, the enigmatic cosmic phenomena.
+description: Exploring the cultural immersion, natural beauty, and vibrant local charm of the most visited city, also known as the Rose of the North, in the north of the country.
 image: images/giuliano-di-paolo-G5nZkhxXYMU-unsplash.jpg
 caption: Photo by Giuliano Di Paolo on Unsplash.
 categories:
@@ -12,7 +12,7 @@ tags:
   - foodie
 draft: false
 ---
-
+ 
 蘭納王朝  
 上座部佛教 vs. 大乘佛教  
 
@@ -21,9 +21,31 @@ Thia Phrases
 - Mâi Pen Rai
 - Sanuk
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1QQOmGRvKh-MnFKKNPLNF8PY9ZZoTEV4&ehbc=2E312F" width="640" height="480"></iframe>
+<!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1QQOmGRvKh-MnFKKNPLNF8PY9ZZoTEV4&ehbc=2E312F" width="640" height="480"></iframe> -->
 
 ## 泰國「北方玫瑰」，藝術建築之寶殿
+
+作為僅次於曼谷的第二大城，身為蘭納王城古都的清邁，舊城區的魅力吸引著各國遊客，尤其是沿著平河而建的那些木造傳統建築．除此之外，近年來的都市建設，也讓這座城市充滿著蓬勃朝氣，更被UNESCO 自2017年評為最具創造力的城市之一
+
+古城區是個被護城河包圍的方形區域，古老的磚牆依舊屹立著，非常適合漫步其中，即使不小心迷路，也極為容易重新找回方向
+在這裡我們看不到高樓大廈，僅有小巧玲瓏的建築，有眾多的餐廳，按摩沙龍和旅店，等著遊客去探索
+但我們將從寺廟談起，尤其是佛教的寺廟
+
+Wat ，在東南亞的不同國家雖然都是與佛教的寺廟相關，但有不同的定義
+以泰國為例，任何除了清真寺之外的廟宇都算是 Wat，Wat Chin 或 Wat San Chao是中式的佛教或道教廟宇；Wat kheek 則是印度教的廟宇
+
+其中Wat Chiang Man (清曼寺)是最古老的廟宇，於13 世紀末由孟萊(Mengrai)王建立，並將蘭納(Lanna)王國定都於清邁
+為了防範蒙古人的入侵，圍繞著城鎮建造的護城河與城牆也於同一時間建立，逐漸的，清邁發展成文化和商業強盛的城鎮，並成為鄰近區域不可忽視的力量
+
+Wat Chedi Luang (柴迪隆寺)
+已有六百多年歷史的柴迪隆寺（Chedi Luang Temple）位在清邁古城區中心， 不僅是清邁最重要的寺廟之一，也是清邁最高的寺廟 (85m)，寺內供奉清邁最大的佛塔。柴迪隆寺於1491年由蘭納國王盛孟瑪（King Saen Muang Ma）建造，而後由皇后建完，初建時分成三座寺廟分別為柴迪隆寺、Wat Ho Tham和Wat Sukmin，三個廟合併為現今的柴迪隆寺。
+但目前有半數處於廢墟狀態
+地址：103 Prapokkloa Rd, Tambon Si Phum, Mueang Chiang Mai District, Chiang Mai 50200泰國
+營業時間：05:00-22:00
+
+Wat Phra Singh (帕邢寺)
+
+
 
 1. 素帖寺(雙龍寺) Wat Phrathat Doi Suthep  
 Locals would say, You haven't really gone to Chiang Mai unless you've been to Wat Phratat doi suthep.  
@@ -41,12 +63,8 @@ Ref: [Klook Trip](https://www.klook.com/zh-TW/activity/384-doi-inthanon-national
 
 4. 拉查帕皇家花園
 
-5. 柴迪隆寺  
-已有六百多年歷史的柴迪隆寺（Chedi Luang Temple）位在清邁古城區中心， 不僅是清邁最重要的寺廟之一，也是清邁最高的寺廟，寺內供奉清邁最大的佛塔。柴迪隆寺於1491年由蘭納國王盛孟瑪（King Saen Muang Ma）建造，而後由皇后建完，初建時分成三座寺廟分別為柴迪隆寺、Wat Ho Tham和Wat Sukmin，三個廟合併為現今的柴迪隆寺。    
-地址：103 Prapokkloa Rd, Tambon Si Phum, Mueang Chiang Mai District, Chiang Mai 50200泰國
-營業時間：05:00-22:00
 
-6. 博桑傘村  
+5. 博桑傘村  
 世界知名的製傘中心博桑傘村（Bo Sang Village）位距清邁市區約10公里，沿途可以見到成排的手工藝品製造工廠，博桑村採用「桑樹皮」作為天然材料，由傳承200餘年製傘技術的年輕婦人親手製作泰絲及棉傘、紙傘，並手繪各種動物及花卉圖案。來到博桑傘村不僅能參觀村民的現場實作，村落中佈置著色彩繽紛的手工紙傘，也成為一場豐富的視覺饗宴。  
 地址：1014, Ton Pao, San Kamphaeng District, Chiang Mai 50130泰國
 

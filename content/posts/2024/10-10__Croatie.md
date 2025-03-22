@@ -46,7 +46,6 @@ Keyword: Resto Site-seeing
 景點
 - 赫瓦爾島堡壘Hvar Fortica  
 
-
 餐廳推薦  
 - Fife Addr: Trumbićeva obala 11, 21000, Split, 克羅埃西亞  
 - Spar Addr: Šubićeva 5 7, 21000, Split, 克羅埃西亞  
